@@ -1,4 +1,4 @@
-PIN13-PIN6<-->2x8 LED Segments(com +, 10 pins)<-->R100¦¸<-->5V
+ï»¿PIN13-PIN6<-->2x8 LED Segments(com +, 10 pins)<-->R100Î©<-->5V
 
 ----------------
 COM1(x),13,12,11,10
