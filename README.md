@@ -9,3 +9,8 @@ My Arduino Uno study
 ## RTOS  
 * https://github.com/zephyrproject-rtos  
 * https://github.com/PeterVranken/RTuinOS  
+
+## Ser  
+* https://github.com/0xE8551CCB/serial-assistant  
+* https://github.com/charasyn/pc2snes  
+* search baidupan serial-assistant  
