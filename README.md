@@ -9,6 +9,7 @@ My Arduino Uno study
 ## RTOS  
 * https://github.com/zephyrproject-rtos  
 * https://github.com/PeterVranken/RTuinOS  
+* https://www.rt-thread.org  
 
 ## Ser  
 * https://github.com/0xE8551CCB/serial-assistant  
