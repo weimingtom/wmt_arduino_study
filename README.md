@@ -35,7 +35,7 @@ My Arduino Uno study
 http://www.waveshare.net/shop/1.3inch-OLED-HAT.htm  
 http://www.waveshare.net/wiki/1.3inch_OLED_HAT  
 http://www.waveshare.net/wiki/1.3inch_OLED_(A)  
-search baidupan 1.3inch-LCD-HAT-Code.7z  
+search baidupan 1.3inch-OLED-Code.7z  
 （左HAT板长边边沿，右电阻，孔向上）  
 HAT=>OLED=>Arduino UNO  
 右1->VCC->3.3V  
