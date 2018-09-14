@@ -36,7 +36,7 @@ http://www.waveshare.net/shop/1.3inch-OLED-HAT.htm
 http://www.waveshare.net/wiki/1.3inch_OLED_HAT  
 http://www.waveshare.net/wiki/1.3inch_OLED_(A)  
 search baidupan 1.3inch-OLED-Code.7z  
-（LEFT border，RIGHT resistors，female header face upon）  
+（LEFT border，RIGHT resistors，female headers face upon）  
 HAT       =>  OLED =>  Arduino UNO  
 RIGHT  1  ->  VCC  ->  3.3V  
 RIGHT 20  ->  GND  ->  GND  
