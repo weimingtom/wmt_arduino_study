@@ -36,12 +36,12 @@ http://www.waveshare.net/shop/1.3inch-OLED-HAT.htm
 http://www.waveshare.net/wiki/1.3inch_OLED_HAT  
 http://www.waveshare.net/wiki/1.3inch_OLED_(A)  
 search baidupan 1.3inch-OLED-Code.7z  
-（左HAT板长边边沿，右电阻，孔向上）  
-HAT=>OLED=>Arduino UNO  
-右1->VCC->3.3V  
-右20->GND->GND  
-右10->DIN->D11(MOSI)  
-右12->CLK->D13(SCK)  
-左12->CS->D10  
-左9->D/C->D8  
-左11->RES->D9  
+（LEFT border，RIGHT resistors，female header face upon）  
+HAT       =>  OLED =>  Arduino UNO  
+RIGHT  1  ->  VCC  ->  3.3V  
+RIGHT 20  ->  GND  ->  GND  
+RIGHT 10  ->  DIN  ->  D11(MOSI)  
+RIGHT 12  ->  CLK  ->  D13(SCK)  
+LEFT  12  ->  CS   ->  D10  
+LEFT   9  ->  D/C  ->  D8  
+LEFT  11  ->  RES  ->  D9  
