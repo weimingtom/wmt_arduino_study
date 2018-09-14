@@ -30,3 +30,18 @@ My Arduino Uno study
 
 ## Graphics  
 * https://github.com/fabio914/arduinogl  
+
+## 微雪_1.3inch_OLED_HAT  
+http://www.waveshare.net/shop/1.3inch-OLED-HAT.htm  
+http://www.waveshare.net/wiki/1.3inch_OLED_HAT  
+http://www.waveshare.net/wiki/1.3inch_OLED_(A)  
+search baidupan 1.3inch-LCD-HAT-Code.7z  
+（左HAT板长边边沿，右电阻，孔向上）  
+HAT=>OLED=>Arduino UNO  
+右1->VCC->3.3V  
+右20->GND->GND  
+右10->DIN->D11(MOSI)  
+右12->CLK->D13(SCK)  
+左12->CS->D10  
+左9->D/C->D8  
+左11->RES->D9  
