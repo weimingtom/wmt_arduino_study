@@ -45,3 +45,6 @@ RIGHT 12  ->  CLK  ->  D13(SCK)
 LEFT  12  ->  CS   ->  D10  
 LEFT   9  ->  D/C  ->  D8  
 LEFT  11  ->  RES  ->  D9  
+
+## altium designer  
+todo  
