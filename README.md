@@ -48,3 +48,19 @@ LEFT  11  ->  RES  ->  D9
 
 ## altium designer  
 todo  
+
+## OLED drivers (see my baidupan)    
+* ZHONGBEST OLED 12864, i2c, 4 pins  
+Arduino
+
+* ZHONGBEST OLED 12864, i2c, 4 pins  
+stm32vldiscovery  
+https://github.com/thaletterb/STM32-SSD1306-128x64-I2C  
+#define I2C_TIMEOUT 100000  
+->  
+#define I2C_TIMEOUT 200000  
+search Demo_1_stm32vldiscovery_oled12864_ssd1306.rar  
+
+* 
+
+
