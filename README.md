@@ -76,5 +76,6 @@ http://www.waveshare.net/wiki/1.3inch_OLED_(A)
 
 ## Serial Drivers (see my baidupan)  
 * ft232  
+for stm32vldiscovery  
 https://embedds.com/programming-stm32-usart-using-gcc-tools-part-1/  
 (baidupan) search Demo_ser_ft232_v1.rar  
