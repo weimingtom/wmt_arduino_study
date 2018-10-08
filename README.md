@@ -61,6 +61,7 @@ https://github.com/thaletterb/STM32-SSD1306-128x64-I2C
 #define I2C_TIMEOUT 200000  
 search Demo_1_stm32vldiscovery_oled12864_ssd1306.rar  
 
-* 
-
+* Arduino OLED 单色 白色 屏幕模块 0.96寸 SPI接口 12864  
+https://shop108339233.taobao.com  
+search oled_ssd1306.ino    
 
