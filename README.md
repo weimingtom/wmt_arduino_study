@@ -51,10 +51,11 @@ todo
 
 ## OLED drivers (see my baidupan)    
 * ZHONGBEST OLED 12864, i2c, 4 pins  
-Arduino
+for Arduino  
+https://gitee.com/weimingtom/arduboymod/blob/master/Adafruit_SSD1306.h  
 
 * ZHONGBEST OLED 12864, i2c, 4 pins  
-stm32vldiscovery  
+for stm32vldiscovery  
 https://github.com/thaletterb/STM32-SSD1306-128x64-I2C  
 #define I2C_TIMEOUT 100000  
 ->  
@@ -62,6 +63,12 @@ https://github.com/thaletterb/STM32-SSD1306-128x64-I2C
 search Demo_1_stm32vldiscovery_oled12864_ssd1306.rar  
 
 * Arduino OLED 单色 白色 屏幕模块 0.96寸 SPI接口 12864  
+for arduino  
 https://shop108339233.taobao.com  
 search oled_ssd1306.ino    
 
+* 微雪_1.3inch_OLED_HAT  
+for arduino  
+see above  
+http://www.waveshare.net/wiki/1.3inch_OLED_(A)  
+search oled.ino  
