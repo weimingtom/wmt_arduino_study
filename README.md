@@ -83,3 +83,6 @@ Right bottom 7: PA9<->RXD (yellow)
 Right bottom 8: PA10<->TXD (orange)  
 Left top 1: GND<->GND (black)  
 Left top 3: 3V3<->VCCIO (red)  
+
+## LCD  
+* https://github.com/SGBotic/LCD-GUI-Library  
