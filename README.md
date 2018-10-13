@@ -74,6 +74,7 @@ VCC->1->Left top 1
 GND->6->Right top 3  
 SCL->5->Left top 3    
 SDA->3->Left top 2    
+(baidupan) search ssd1306_i2c-master.zip  
 
 * Arduino OLED 单色 白色 屏幕模块 0.96寸 SPI接口 12864  
 for arduino  
