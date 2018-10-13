@@ -63,6 +63,15 @@ https://github.com/thaletterb/STM32-SSD1306-128x64-I2C
 #define I2C_TIMEOUT 200000  
 (baidupan) search Demo_1_stm32vldiscovery_oled12864_ssd1306.rar  
 
+* ZHONGBEST OLED 12864, i2c, 4 pins  
+for rpi    
+https://github.com/iliapenev/ssd1306_i2c  
+http://shumeipai.nxez.com/2017/09/13/solve-the-raspberry-pi-drive-oled-problem.html  
+VCC->1->Left top 1  
+GND->6->Right top 3  
+SCL->5->Left top 3    
+SDA->3->Left top 2    
+
 * Arduino OLED 单色 白色 屏幕模块 0.96寸 SPI接口 12864  
 for arduino  
 https://shop108339233.taobao.com  
