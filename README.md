@@ -65,6 +65,9 @@ https://github.com/thaletterb/STM32-SSD1306-128x64-I2C
 
 * ZHONGBEST OLED 12864, i2c, 4 pins  
 for rpi    
+sudo apt-get install wiringpi  
+sudo raspi-config  
+(Interfacing Options->I2C->Yes)  
 https://github.com/iliapenev/ssd1306_i2c  
 http://shumeipai.nxez.com/2017/09/13/solve-the-raspberry-pi-drive-oled-problem.html  
 VCC->1->Left top 1  
