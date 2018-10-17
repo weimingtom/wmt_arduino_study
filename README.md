@@ -97,6 +97,11 @@ Right bottom 8: PA10<->TXD (orange)
 Left top 1: GND<->GND (black)  
 Left top 3: 3V3<->VCCIO (red)  
 
+* USB-TTL, Auto Programmer    
+for stc89c52rc, 12MHz, baud=2400  
+(baidupan) search uart_12MHz_baud_2400_v1.rar  
+https://www.cnblogs.com/geekalan/p/4005427.html  
+
 ## LCD  
 * https://github.com/SGBotic/LCD-GUI-Library  
 * https://github.com/prenticedavid/MCUFRIEND_kbv  
