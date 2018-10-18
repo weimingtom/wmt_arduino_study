@@ -120,12 +120,11 @@ see arduino_lcd_ili9486
 * oled12864_i2c_信泰微  
 V6.0_S13-IIC.rar  
 
-* 彩屏TFT1.44寸液晶显示屏  
+* 彩屏TFT1.44寸液晶显示屏, YYROBOT    
 TFT1.44寸彩屏资料 V6.0.zip  
 (baidupan) UTFT_Bitmap_128x128_Serial_v1.rar  
 (baidupan) UTFT_Demo_128x128_Serial_v1.rar  
 (baidupan) UTFT_Font_128x128_Serial_v1.rar  
-YYROBOT  
 
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
