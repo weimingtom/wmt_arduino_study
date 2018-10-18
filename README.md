@@ -105,3 +105,29 @@ https://www.cnblogs.com/geekalan/p/4005427.html
 ## LCD  
 * https://github.com/SGBotic/LCD-GUI-Library  
 * https://github.com/prenticedavid/MCUFRIEND_kbv  
+
+## TFT Drivers (not test, see my baidupan)  
+* mcufriend, 3.5inch, ILI9486(?), 320X480  
+3.5寸TFT彩屏模块 320X480超高清液晶屏  
+for arduino  
+(baidupan) 3.5inch_Arduino_ILI9486_V1.2.zip  
+see arduino_lcd_ili9486  
+
+* 2.4inch  
+2.4寸 TFT 液晶屏 触摸屏 彩屏模块  
+(baidupan) 2.4inch_Arduino_ILI9341_V3.0.zip   
+
+* oled12864_i2c_信泰微  
+V6.0_S13-IIC.rar  
+
+* 彩屏TFT1.44寸液晶显示屏  
+TFT1.44寸彩屏资料 V6.0.zip  
+
+## OLED Drivers (not test, see my baidupan)  
+* 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
+
+## Debugger Dirvers  
+* jlink  
+
+
+
