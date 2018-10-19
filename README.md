@@ -50,12 +50,12 @@ LEFT  11  ->  RES  ->  D9
 todo  
 
 ## OLED drivers (see my baidupan)    
-* ZHONGBEST OLED 12864, i2c, 4 pins  
+* ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for Arduino  
 https://gitee.com/weimingtom/arduboymod/blob/master/Adafruit_SSD1306.h  
 (baidupan) search ssd1306_128x32_i2c.ino  
 
-* ZHONGBEST OLED 12864, i2c, 4 pins  
+* ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for stm32vldiscovery  
 https://github.com/thaletterb/STM32-SSD1306-128x64-I2C  
 #define I2C_TIMEOUT 100000  
@@ -69,7 +69,7 @@ SCL->PB6->Right top 8
 SDA->PB7->Right top 7  
 (baidupan) search Demo_3_oled12864_i2c_信泰微_V6.0_S13-IIC_惠特自动化_心如刀割.rar  
 
-* ZHONGBEST OLED 12864, i2c, 4 pins  
+* ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for rpi    
 sudo apt-get install wiringpi  
 sudo raspi-config  
@@ -82,7 +82,7 @@ SCL->5->Left top 3
 SDA->3->Left top 2    
 (baidupan) search ssd1306_i2c-master.zip  
 
-* Arduino OLED 单色 白色 屏幕模块 0.96寸 SPI接口 12864  
+* Arduino OLED 单色 白色 屏幕模块 0.96寸 SPI接口 12864, ssd1306  
 for arduino  
 https://shop108339233.taobao.com  
 (baidupan) search oled_ssd1306.ino    
