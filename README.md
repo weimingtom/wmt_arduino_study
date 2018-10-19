@@ -67,7 +67,7 @@ VCC->3V3->Left top 3
 GND->GND->Left top 1  
 SCL->PB6->Right top 8  
 SDA->PB7->Right top 7  
-(baidupan) search Demo_3_中景园电子0.96OLED显示屏_STM32系列_SPI_例程_惠特自动化_心如刀割.rar  
+(baidupan) search Demo_3_oled12864_i2c_信泰微_V6.0_S13-IIC_惠特自动化_心如刀割.rar  
 
 * ZHONGBEST OLED 12864, i2c, 4 pins  
 for rpi    
