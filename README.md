@@ -62,6 +62,11 @@ https://github.com/thaletterb/STM32-SSD1306-128x64-I2C
 ->  
 #define I2C_TIMEOUT 200000  
 (baidupan) search Demo_1_stm32vldiscovery_oled12864_ssd1306.rar  
+https://www.espruino.com/ReferenceSTM32VLDISCOVERY
+VCC->3V3->Left top 3
+GND->GND->Left top 1
+SCL->PB6->Right top 8
+SDA->PB7->Right top 7
 
 * ZHONGBEST OLED 12864, i2c, 4 pins  
 for rpi    
