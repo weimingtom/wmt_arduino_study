@@ -70,6 +70,14 @@ SDA->PB7->Right top 7
 (baidupan) search Demo_3_oled12864_i2c_信泰微_V6.0_S13-IIC_惠特自动化_心如刀割.rar  
 
 * ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
+for STM32F105RC  
+(baidupan) search Demo_2_stm32arduino_oled_i2c.rar  
+VCC->+3.3V->Left bottom 4  
+GND->GND->Left bottom 7  
+SCL->6->Right top 7  
+SDA->7->Right top 8  
+
+* ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for rpi    
 sudo apt-get install wiringpi  
 sudo raspi-config  
