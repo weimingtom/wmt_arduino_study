@@ -153,7 +153,7 @@ http://www.nongnu.org/avr-libc/user-manual/FAQ.html#faq_cplusplus
 ## mp3  
 ATJ2085  
 
-## 共阳极数码管  
+## 2位共阳极数码管  
 (baidupan) digital_two_v1.rar  
 
 
