@@ -156,4 +156,7 @@ ATJ2085
 ## 2位共阳极数码管  
 (baidupan) digital_two_v1.rar  
 
+## ATmega8  
+https://github.com/MCUdude/MiniCore  
+
 
