@@ -78,6 +78,14 @@ SCL->6->Right top 7
 SDA->7->Right top 8  
 
 * ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
+for STM32F103C8    
+(baidupan) search Demo5_stm32f103c8.rar  
+VCC->V3->Left bottom 2  
+GND->G->Left bottom 1  
+SCL->B6->Left bottom 4  
+SDA->B7->Left bottom 3  
+
+* ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for rpi    
 sudo apt-get install wiringpi  
 sudo raspi-config  
