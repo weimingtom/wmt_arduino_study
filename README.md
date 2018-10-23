@@ -56,6 +56,10 @@ https://gitee.com/weimingtom/arduboymod/blob/master/Adafruit_SSD1306.h
 (baidupan) search ssd1306_128x32_i2c.ino  
 (baidupan) search ssd1306_128x64_i2c_nano_v1.rar  
 (baidupan) search ssd1306_128x64_i2c_v1.rar  
+VCC<->3.3V  
+GND<->GND  
+SCL<->A5/SCL  
+SDA<->A4/SDA  
 
 * ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for stm32vldiscovery  
