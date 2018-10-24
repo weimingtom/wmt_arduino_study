@@ -104,6 +104,14 @@ SCL->5->Left top 3
 SDA->3->Left top 2    
 (baidupan) search ssd1306_i2c-master.zip  
 
+* ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
+for stc89c52      
+VCC<->3.3V  
+GND<->GND  
+SCL<->P1.3  
+SDA<->P1.2  
+(baidupan) search oled_stc89c52_v1.rar  
+
 * Arduino OLED 单色 白色 屏幕模块 0.96寸 SPI接口 12864, ssd1306  
 for arduino  
 https://shop108339233.taobao.com  
