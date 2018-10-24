@@ -173,4 +173,7 @@ ATJ2085
 ## ATmega8  
 https://github.com/MCUdude/MiniCore  
 
+## raspberrypiwiki  
+http://www.raspberrypiwiki.com/index.php/Arduino  
+
 
