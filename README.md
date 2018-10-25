@@ -184,4 +184,6 @@ https://github.com/MCUdude/MiniCore
 ## raspberrypiwiki  
 http://www.raspberrypiwiki.com/index.php/Arduino  
 
+## boards    
+https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems  
 
