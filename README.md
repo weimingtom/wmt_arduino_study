@@ -67,7 +67,7 @@ https://github.com/thaletterb/STM32-SSD1306-128x64-I2C
 #define I2C_TIMEOUT 100000  
 ->  
 #define I2C_TIMEOUT 200000  
-(baidupan) search Demo_1_stm32vldiscovery_oled12864_ssd1306.rar  
+(baidupan) search Demo_1_stm32vldiscovery_oled12864_ssd1306_v2.rar  
 https://www.espruino.com/ReferenceSTM32VLDISCOVERY  
 VCC->3V3->Left top 3  
 GND->GND->Left top 1  
@@ -165,6 +165,17 @@ https://github.com/telamon/utft
 
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
+
+## VS1003 Drivers  
+* for stm32vldiscovery  
+(baidupan) Demo_1_vs1003_v2_vldisco_success.rar    
+1,       2,   top(2),                  bottom(1)  
+3.3V, 3.3V,   3V3(top left 3),  
+GND,  GND,    GND(top left 1),  
+MISO, NC,     -------------------,     PB14(bottom from left 5)  
+MOSI, DREQ,   PA7(bottom left 7) ,     PB15(bottom from left 6)  
+SCLK, xREST,  PA5(bottom left 9) ,     PB13(bottom from left 4)  
+xCS,  xDCS,   PA4(bottom left 10),     PB12(bottom from left 3)  
 
 ## Debugger Dirvers  
 * jlink  
