@@ -177,6 +177,15 @@ MOSI, DREQ,   PA7(bottom left 7) ,     PB15(bottom from left 6)
 SCLK, xREST,  PA5(bottom left 9) ,     PB13(bottom from left 4)  
 xCS,  xDCS,   PA4(bottom left 10),     PB12(bottom from left 3)  
 
+## LED Drivers  
+* 2位共阳极数码管  
+for arduino  
+(baidupan) digital_two_v1.rar  
+
+* tm1637  
+for arduino  
+(baidupan) tm1637_v1.rar  
+
 ## Debugger Dirvers  
 * jlink  
 
@@ -185,9 +194,6 @@ http://www.nongnu.org/avr-libc/user-manual/FAQ.html#faq_cplusplus
 
 ## mp3  
 ATJ2085  
-
-## 2位共阳极数码管  
-(baidupan) digital_two_v1.rar  
 
 ## ATmega8  
 https://github.com/MCUdude/MiniCore  
