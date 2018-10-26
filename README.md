@@ -186,6 +186,19 @@ for arduino
 for arduino  
 (baidupan) tm1637_v1.rar  
 
+## Button Drivers  
+* for arduino  
+D2<->S<->5V, (Pull down) D2<->R<->GND    
+https://www.arduino.cc/en/Tutorial/DigitalReadSerial  
+https://www.arduino.cc/en/tutorial/button  
+https://www.arduino.cc/en/Tutorial/AnalogReadSerial  
+D2<->S<->GND, pinMode(2, INPUT_PULLUP)  
+https://www.arduino.cc/en/Tutorial/DigitalInputPullup  
+
+* for stc89c52 / stc89c52rc / at89s52    
+P3.4<->S<->GND  
+https://gitee.com/weimingtom/wmt_51  
+
 ## Debugger Dirvers  
 * jlink  
 
