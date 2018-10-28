@@ -220,6 +220,21 @@ GND<->GND
 (baidupan) microsd_card_adapter_v1.rar  
 (baidupan) sdcard_v1.rar  
 
+## DFPlayer Mini  
+* for arduino  
+https://github.com/DFRobot/DFPlayer-Mini-mp3  
+http://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299  
+(baidupan) mp3player_v1.rar  
+Left Top, U  
+1<->5V  
+2<->1KR<->D3  
+3<->1KR<->D2 
+4(not connect)  
+5(not connect)       
+6<->speaker  
+7<->GND  
+8<->speaker    
+
 ## Debugger Dirvers  
 * jlink  
 
