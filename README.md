@@ -181,6 +181,9 @@ xCS,  xDCS,   PA4(bottom left 10),     PB12(bottom from left 3)
 * 2位共阳极数码管  
 for arduino  
 (baidupan) digital_two_v1.rar  
+D2(+R), D3, D4, D5, D6  
+8.8.  
+D7 ,D8, D9, D10, D11(+R)  
 
 * tm1637, 信泰微, 4-Digit Display    
 for arduino  
