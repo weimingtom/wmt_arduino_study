@@ -177,7 +177,7 @@ MOSI, DREQ,   PA7(bottom left 7) ,     PB15(bottom from left 6)
 SCLK, xREST,  PA5(bottom left 9) ,     PB13(bottom from left 4)  
 xCS,  xDCS,   PA4(bottom left 10),     PB12(bottom from left 3)  
 
-## LED Drivers  
+## LED / Digital tube Drivers  
 * 2位共阳极数码管  
 for arduino  
 (baidupan) digital_two_v1.rar  
@@ -185,6 +185,10 @@ for arduino
 * tm1637  
 for arduino  
 (baidupan) tm1637_v1.rar  
+CLK<->D3  
+DIO<->D2  
+VCC<->5V(Don't use 3.3V)  
+GND<->GND  
 
 ## Button Drivers  
 * for arduino  
