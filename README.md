@@ -199,7 +199,7 @@ https://www.arduino.cc/en/Tutorial/DigitalInputPullup
 P3.4<->S<->GND  
 https://gitee.com/weimingtom/wmt_51  
 
-## TF (SD Card) Drivers  
+## TF (MicroSD Card Adapter) Drivers  
 * for arduino  
 Arduino IDE->SD->CardInfo  
 https://www.arduino.cc/en/Tutorial/CardInfo  
@@ -210,6 +210,7 @@ MOSI<->D11
 MISO<->D12  
 VCC<->5V  
 GND<->GND  
+(baidupan) microsd_card_adapter_v1.rar  
 
 ## Debugger Dirvers  
 * jlink  
