@@ -199,7 +199,7 @@ https://www.arduino.cc/en/Tutorial/DigitalInputPullup
 P3.4<->S<->GND  
 https://gitee.com/weimingtom/wmt_51  
 
-## TF Drivers  
+## TF (SD Card) Drivers  
 * for arduino  
 Arduino IDE->SD->CardInfo  
 https://www.arduino.cc/en/Tutorial/CardInfo  
