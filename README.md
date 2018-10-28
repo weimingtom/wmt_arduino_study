@@ -199,6 +199,18 @@ https://www.arduino.cc/en/Tutorial/DigitalInputPullup
 P3.4<->S<->GND  
 https://gitee.com/weimingtom/wmt_51  
 
+## TF Drivers  
+* for arduino  
+Arduino IDE->SD->CardInfo  
+https://www.arduino.cc/en/Tutorial/CardInfo  
+https://www.arduino.cc/en/Reference/SD  
+CS<->D4  
+SCK<->D13  
+MOSI<->D11  
+MISO<->D12  
+VCC<->5V  
+GND<->GND  
+
 ## Debugger Dirvers  
 * jlink  
 
