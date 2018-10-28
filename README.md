@@ -228,7 +228,7 @@ http://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299
 Left Top, U  
 1<->5V  
 2<->1KR<->D3  
-3<->1KR<->D2 
+3<->1KR<->D2  
 4(not connect)  
 5(not connect)       
 6<->speaker  
