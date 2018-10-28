@@ -211,6 +211,7 @@ MISO<->D12
 VCC<->5V  
 GND<->GND  
 (baidupan) microsd_card_adapter_v1.rar  
+(baidupan) sdcard_v1.rar  
 
 ## Debugger Dirvers  
 * jlink  
