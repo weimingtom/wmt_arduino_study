@@ -182,9 +182,9 @@ xCS,  xDCS,   PA4(bottom left 10),     PB12(bottom from left 3)
 for arduino  
 (baidupan) digital_two_v1.rar  
 
-* tm1637  
+* tm1637, 信泰微, 4-Digit Display    
 for arduino  
-(baidupan) tm1637_v1.rar  
+(baidupan) tm1637_v2.rar  
 CLK<->D3  
 DIO<->D2  
 VCC<->5V(Don't use 3.3V)  
