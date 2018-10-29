@@ -254,6 +254,7 @@ http://www.nongnu.org/avr-libc/user-manual/FAQ.html#faq_cplusplus
 
 ## mp3  
 ATJ2085  
+GPD2856C  
 
 ## ATmega8  
 https://github.com/MCUdude/MiniCore  
