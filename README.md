@@ -264,6 +264,7 @@ http://www.raspberrypiwiki.com/index.php/Arduino
 ## boards    
 https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems  
 
-## mp3 player (VC1053B)      
+## mp3 player (VS1053B)      
 http://wiki.seeedstudio.com/cn/Music_Shield_V2.2/  
+http://www.waveshare.net/wiki/Music_Shield  
 
