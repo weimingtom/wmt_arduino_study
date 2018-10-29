@@ -220,7 +220,7 @@ GND<->GND
 (baidupan) microsd_card_adapter_v1.rar  
 (baidupan) sdcard_v1.rar  
 
-## DFPlayer Mini  
+## DFPlayer Mini Drivers    
 * for arduino  
 https://github.com/DFRobot/DFPlayer-Mini-mp3  
 http://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299  
@@ -234,6 +234,17 @@ Left Top, U
 6<->speaker  
 7<->GND  
 8<->speaker    
+
+## L298N Drivers    
+* for arduino  
+(baidupan) L298N_v1.rar  
+OUT1<->motor+  
+OUT2<->motor-  
++12V<->battery 6V  
+GND<->battery GND<->arduino GND  
++5V<->arduino 5V  
+IN1<->D5  
+IN2<->D4  
 
 ## Debugger Dirvers  
 * jlink  
