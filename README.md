@@ -178,7 +178,7 @@ MOSI, DREQ,   PA7(bottom left 7) ,     PB15(bottom from left 6)
 SCLK, xREST,  PA5(bottom left 9) ,     PB13(bottom from left 4)  
 xCS,  xDCS,   PA4(bottom left 10),     PB12(bottom from left 3)  
 
-* small board  
+* small board, 信泰微  
 for stm32vldiscovery  
 (baidupan) Demo_1_vs1003_v3_small_board.rar  
 5V<->5V(Right top 3)  
