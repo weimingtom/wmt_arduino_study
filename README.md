@@ -167,7 +167,8 @@ https://github.com/telamon/utft
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
 
 ## VS1003 Drivers  
-* for stm32vldiscovery  
+* waveshare vs1003    
+for stm32vldiscovery  
 (baidupan) Demo_1_vs1003_v2_vldisco_success.rar    
 1,       2,   top(2),                  bottom(1)  
 3.3V, 3.3V,   3V3(top left 3),  
@@ -176,6 +177,19 @@ MISO, NC,     -------------------,     PB14(bottom from left 5)
 MOSI, DREQ,   PA7(bottom left 7) ,     PB15(bottom from left 6)  
 SCLK, xREST,  PA5(bottom left 9) ,     PB13(bottom from left 4)  
 xCS,  xDCS,   PA4(bottom left 10),     PB12(bottom from left 3)  
+
+* small board  
+for stm32vldiscovery  
+(baidupan) Demo_1_vs1003_v3_small_board.rar  
+5V<->5V(Right top 3)  
+GND<->GND(Right top 1)  
+XRST<->PA5(bottom left 9)  
+MISO<->PB14(bottom from left 5)  
+MOSI<->PB15(bottom from left 6)  
+SCLK<->PB13(bottom from left 4)  
+DREQ<->PA7(bottom left 7)  
+XCS<->PB12(bottom from left 3)  
+XDCS<->PA4(bottom left 10)  
 
 ## LED / Digital tube Drivers  
 * 2位共阳极数码管  
