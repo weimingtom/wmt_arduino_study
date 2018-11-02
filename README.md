@@ -191,6 +191,19 @@ DREQ<->PA7(bottom left 7)
 XCS<->PB12(bottom from left 3)  
 XDCS<->PA4(bottom left 10)  
 
+* small board, 信泰微  
+for arduino uno  
+(baidupan) vs1003_hello_arduino_uno_v2.rar  
+5V<->5V  
+GND<->GND  
+XRES<->D8  
+MISO<->D12  
+MOSI<->D11  
+SCLK<->D13  
+DREQ<->D7  
+XCS<->D9  
+XDCS<->D6  
+
 ## LED / Digital tube Drivers  
 * 2位共阳极数码管  
 for arduino  
