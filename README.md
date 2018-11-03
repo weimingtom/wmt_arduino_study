@@ -204,6 +204,19 @@ DREQ<->D7
 XCS<->D9  
 XDCS<->D6  
 
+* small board, 信泰微 (**NOT GOOD**)  
+for stc89c54rd+  
+(baidupan) vs1003_51_v2.rar  
+5V<->5V  
+GND<->GND  
+XRST<->P3.2  
+MISO<->P1.6  
+MOSI<->P1.5  
+SCLK<->P1.7  
+DREQ<->P3.5  
+XCS<->P3.3  
+XDCS<->P3.4  
+
 ## LED / Digital tube Drivers  
 * 2位共阳极数码管  
 for arduino  
