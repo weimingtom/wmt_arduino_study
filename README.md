@@ -192,14 +192,14 @@ XCS<->PB12(bottom from left 3)
 XDCS<->PA4(bottom left 10)  
 
 * small board, 信泰微  
-for arduino uno  
+for arduino uno / arduino mega 2560    
 (baidupan) vs1003_hello_arduino_uno_v2.rar  
 5V<->5V  
 GND<->GND  
 XRES<->D8  
-MISO<->D12  
-MOSI<->D11  
-SCLK<->D13  
+MISO<->D12<->D50  
+MOSI<->D11<->D51  
+SCLK<->D13<->D52  
 DREQ<->D7  
 XCS<->D9  
 XDCS<->D6  
