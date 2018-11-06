@@ -289,6 +289,21 @@ GND<->battery GND<->arduino GND
 IN1<->D5  
 IN2<->D4  
 
+## Keypad Drivers  
+* 4x4 keypad  
+for arduino  
+https://playground.arduino.cc/Code/Keypad
+(baidupan) keypad_v1.rar  
+up->down  
+Pin1(Col4)<->D11  
+Pin2(Col3)<->D10  
+Pin3(Col2)<->D9  
+Pin4(Col1)<->D8  
+Pin5(Row1)<->D7  
+Pin6(Row2)<->D6  
+Pin7(Row3)<->D5  
+Pin8(Row4)<->D4  
+
 ## Debugger Dirvers  
 * jlink  
 
