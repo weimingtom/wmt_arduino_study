@@ -2,7 +2,7 @@
 My Arduino Uno study
 
 ## Arduino Playground  
-https://playground.arduino.cc/Main/InterfacingWithHardware  
+* https://playground.arduino.cc/Main/InterfacingWithHardware  
 
 ## Ref  
 * https://github.com/adafruit/Adafruit-GFX-Library  
