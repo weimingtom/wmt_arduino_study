@@ -304,6 +304,16 @@ Pin6(Row2)<->D6
 Pin7(Row3)<->D5  
 Pin8(Row4)<->D4  
 
+## ds1306 Drivers
+* for stc89c52  
+(baidupan) ds1306_51_v1.rar  
+baud=9600 (for 11.0592MHz)    
+VCC<->5V (or 3V, or not connected)  
+GND<->GND  
+CLK<->P1.1  
+DAT<->P1.2  
+RST<->P1.3  
+
 ## Debugger Dirvers  
 * jlink  
 
