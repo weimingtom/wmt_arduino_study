@@ -141,6 +141,10 @@ for stc89c52rc, 12MHz, baud=2400
 (baidupan) search uart_12MHz_baud_2400_v1.rar  
 https://www.cnblogs.com/geekalan/p/4005427.html  
 
+* 51单片机最小系统板, Rotot DIY, 幼智汇      
+for stc89c52, 11.0592MHz, baud=9600    
+(baidupan) ds1306_51_v1.rar  
+
 ## LCD  
 * https://github.com/SGBotic/LCD-GUI-Library  
 * https://github.com/prenticedavid/MCUFRIEND_kbv  
