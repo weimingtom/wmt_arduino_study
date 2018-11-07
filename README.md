@@ -177,6 +177,7 @@ https://github.com/telamon/utft
 * waveshare vs1003    
 for stm32vldiscovery  
 (baidupan) Demo_1_vs1003_v2_vldisco_success.rar    
+https://sourceforge.net/projects/bin2header/  
 1,       2,   top(2),                  bottom(1)  
 3.3V, 3.3V,   3V3(top left 3),  
 GND,  GND,    GND(top left 1),  
