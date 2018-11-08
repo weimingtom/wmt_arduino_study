@@ -321,6 +321,7 @@ RST<->P1.3
 
 ## BLE (2.4G) Drivers  
 * CC2541  
+* (baidupan) bleserialport_v2.rar  
 
 ## Debugger Dirvers  
 * jlink  
