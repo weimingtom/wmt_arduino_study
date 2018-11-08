@@ -319,6 +319,9 @@ CLK<->P1.1
 DAT<->P1.2  
 RST<->P1.3  
 
+## BLE (2.4G) Drivers  
+* CC2541  
+
 ## Debugger Dirvers  
 * jlink  
 
