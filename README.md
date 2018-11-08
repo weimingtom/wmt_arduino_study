@@ -346,3 +346,5 @@ https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems
 http://wiki.seeedstudio.com/cn/Music_Shield_V2.2/  
 http://www.waveshare.net/wiki/Music_Shield  
 
+## guichan port  
+(baidupan) guichan_v15_sss.rar  
