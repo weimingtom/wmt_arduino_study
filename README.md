@@ -296,6 +296,7 @@ IN2<->D4
 
 * for arduino nano + 2.4G(BLE)  
 (baidupan) L298N_v2.rar  
+(baidupan) bleserialport_v2.rar  
 OUT1<->motor+  
 OUT2<->motor-  
 +12V<->battery 9V  
