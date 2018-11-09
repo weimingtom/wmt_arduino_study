@@ -284,7 +284,7 @@ Left Top, U
 8<->speaker    
 
 ## L298N Drivers    
-* for arduino  
+* for arduino nano    
 (baidupan) L298N_v1.rar  
 OUT1<->motor+  
 OUT2<->motor-  
@@ -293,6 +293,21 @@ GND<->battery GND<->arduino GND
 +5V<->arduino 5V  
 IN1<->D5  
 IN2<->D4  
+
+* for arduino nano + 2.4G(BLE)  
+(baidupan) L298N_v2.rar  
+OUT1<->motor+  
+OUT2<->motor-  
++12V<->battery 9V  
+GND<->battery GND<->arduino GND  
++5V<->arduino 5V  
+IN1<->D5  
+IN2<->D4  
+2.4G:  
+D10<->TX  
+D11<->RX  
+Vin<->VCC  
+GND<->GND  
 
 ## Keypad Drivers  
 * 4x4 keypad  
