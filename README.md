@@ -123,6 +123,12 @@ VCC->3V3
 GND->GND  
 SCL->PA5  
 SDA->PA7  
+(baidupan) STM32F030F4_oled_v3.rar  
+hardware implement i2c, HAL by stm32cubemx    
+VCC<->3V3  
+GND<->GND  
+SCL<->PA9  
+SDA<->PA10  
 
 * Arduino OLED 单色 白色 屏幕模块 0.96寸 SPI接口 12864, ssd1306  
 for arduino  
