@@ -9,6 +9,7 @@ My Arduino Uno study
 * http://www.elecfans.com  
 * http://www.firebbs.cn/forum.php  
 * http://www.openedv.com  
+* http://www.51hei.com/bbs/  
 
 ## Ref  
 * https://github.com/adafruit/Adafruit-GFX-Library  
