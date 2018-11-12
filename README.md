@@ -10,6 +10,8 @@ My Arduino Uno study
 * http://www.firebbs.cn/forum.php  
 * http://www.openedv.com  
 * http://www.51hei.com/bbs/  
+* http://bbs.21ic.com/iclist-27-1.html  
+* https://bbs.csdn.net/forums/Embedded_SCM  
 
 ## Ref  
 * https://github.com/adafruit/Adafruit-GFX-Library  
