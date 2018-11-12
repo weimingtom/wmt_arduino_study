@@ -124,6 +124,7 @@ GND->GND
 SCL->PA5  
 SDA->PA7  
 (baidupan) STM32F030F4_oled_v3.rar  
+code from https://github.com/rizqiuhuy/STM32F407_Tutorial/tree/master/I2C_OLED_Standart  
 hardware implement i2c, HAL by stm32cubemx    
 VCC<->3V3  
 GND<->GND  
