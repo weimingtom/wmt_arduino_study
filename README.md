@@ -4,6 +4,9 @@ My Arduino Uno study
 ## Arduino Playground  
 * https://playground.arduino.cc/Main/InterfacingWithHardware  
 
+## AVR Manual  
+* http://www.nongnu.org/avr-libc/user-manual/index.html  
+
 ## BBS  
 * http://bbs.elecfans.com  
 * http://www.elecfans.com  
