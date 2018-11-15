@@ -130,15 +130,18 @@ SDA<->P1.2
 
 * ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for stm32f030f4  
-(baidupan) LED-PA4_stm32f030_soft_i2c_oled_v1.rar  
+1) (baidupan) LED-PA4_stm32f030_soft_i2c_oled_v1.rar  
 software implement i2c (see also stc89c52)  
 VCC->3V3  
 GND->GND  
 SCL->PA5  
 SDA->PA7  
-(baidupan) STM32F030F4_oled_v3.rar  
+2) (baidupan) STM32F030F4_oled_v3.rar  
 code from https://github.com/rizqiuhuy/STM32F407_Tutorial/tree/master/I2C_OLED_Standart  
 hardware implement i2c, HAL by stm32cubemx    
+3) (baidupan) LED-PA4_stm32f030_i2c_oled_spl_hardware_v1.rar  
+code from https://github.com/NjordCZ/opentag-eval/blob/master/TEST/STM320518-EVAL_FW_V1.0.1/Project/STM320518-EVAL/src/i2c_ssd1306.c  
+hardware implement i2c, SPL      
 VCC<->3V3  
 GND<->GND  
 SCL<->PA9  
