@@ -403,3 +403,7 @@ http://www.waveshare.net/wiki/Music_Shield
 
 ## 7Robot  
 https://github.com/7Robot  
+
+## Bluetooth 2.0, amarino    
+https://github.com/rubanraj54/amarino  
+http://www.amarino-toolkit.net/index.php/download.html  
