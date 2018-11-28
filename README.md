@@ -381,6 +381,8 @@ RST<->P1.3
 
 ## Debugger Dirvers  
 * jlink  
+* st-link v2  
+* (baidupan) stm32最小系统接法  
 
 ## user manual  
 http://www.nongnu.org/avr-libc/user-manual/FAQ.html#faq_cplusplus  
