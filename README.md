@@ -203,6 +203,18 @@ TFT1.44寸彩屏资料 V6.0.zip
 (baidupan) UTFT_Font_128x128_Serial_v1.rar  
 https://github.com/telamon/utft  
 
+* 中景园, 1.44' TFT, spi, 直插式
+for STM32F103RC (software spi)    
+(baidupan) 1.44LCD-STM32F103RC_v1.rar  
+GND<->GND  
+VCC<->3.3V  
+SCL<->PB13  
+SDA<->PB15  
+RES<->PB11  
+DC<->PB10  
+CS<->PB12  
+BL<->PB1  
+
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
 
