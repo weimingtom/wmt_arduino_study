@@ -425,3 +425,7 @@ https://github.com/7Robot
 ## Bluetooth 2.0, amarino    
 https://github.com/rubanraj54/amarino  
 http://www.amarino-toolkit.net/index.php/download.html  
+
+## LCD Wiki  
+LCD Wiki是一家开源共享的专业显示屏分享网站  
+http://www.lcdwiki.com/zh  
