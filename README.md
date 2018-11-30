@@ -206,6 +206,7 @@ https://github.com/telamon/utft
 * 中景园, 1.44' TFT, spi, 直插式
 for STM32F103RC (software spi)    
 (baidupan) 1.44LCD-STM32F103RC_v1.rar  
+(baidupan) UCGUI_touch_1.44LCD-STM32F103RC_v1.rar  
 GND<->GND  
 VCC<->3.3V  
 SCL<->PB13  
