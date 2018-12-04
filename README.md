@@ -188,6 +188,8 @@ for stc89c52, 11.0592MHz, baud=9600
 for arduino  
 (baidupan) 3.5inch_Arduino_ILI9486_V1.2.zip  
 see arduino_lcd_ili9486  
+(baidupan) Example01-DisplayString_v1.rar  
+(baidupan) Example07-ShowBMP_320X480_v1.rar  
 
 * 2.4inch  
 2.4寸 TFT 液晶屏 触摸屏 彩屏模块  
