@@ -94,11 +94,12 @@ SDA->PB7->Right top 7
 
 * ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for STM32F105RC  
-(baidupan) search Demo_2_stm32arduino_oled_i2c.rar  
-VCC->+3.3V->Left bottom 4  
-GND->GND->Left bottom 7  
-SCL->6->Right top 7  
-SDA->7->Right top 8  
+(baidupan) search Demo_2_stm32arduino_oled_i2c_v2.rar  
+VCC->+3.3V->Right bottom 4  
+GND->GND->Right bottom 7  
+SCL->6->Left top 7  
+SDA->7->Left top 8  
+LED+R->D2(PC11)->Left top 3, Right Bottom 6(GND)  
 
 * ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for STM32F103C8    
