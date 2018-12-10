@@ -434,3 +434,8 @@ http://www.amarino-toolkit.net/index.php/download.html
 ## LCD Wiki  
 LCD Wiki是一家开源共享的专业显示屏分享网站  
 http://www.lcdwiki.com/zh  
+
+## 万能板的焊接方法（多图）  
+http://adi.eefocus.com/module/forum/thread-594271-1-1.html  
+(baidupan) 万能板的焊接方法（多图）.doc  
+
