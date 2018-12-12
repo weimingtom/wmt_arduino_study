@@ -219,6 +219,18 @@ DC<->PB10
 CS<->PB12  
 BL<->PB1  
 
+* 2.4 spi touch screen, 全动电子    
+for STM32F103RC  
+(baidupan) 2.4-SPI-9341-STM32F103RC-NoTouch_v1.rar  
+PB9<--->LED  
+PB13<--->SCK  
+PB15<--->SDI(MOSI)  
+PB10<--->DC  
+PB12<--->RESET  
+PB11<--->CS  
+GND<---->GND  
+VCC<---->3.3V  
+
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
 
