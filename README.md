@@ -231,6 +231,20 @@ PB11<--->CS
 GND<---->GND  
 VCC<---->3.3V  
 
+* 2.4 spi touch screen, 全动电子    
+for rpi  
+https://github.com/nopnop2002/wiringpi-tft-tool  
+(baidupan) rpi_spi_tft_v1.rar  
+NC<--->SDO(MISO)  
+#1(left 1)<--->LED  
+#23(left 12)<--->SCK  
+#19(left 10)<--->SDI(MOSI)  
+#3(left 2)<--->DC  
+#5(left 3)<--->RESET  
+#24(right 12)<--->CS  
+#25(left 13)<---->GND  
+#17(left 9)<---->3.3V  
+
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
 
