@@ -222,6 +222,8 @@ BL<->PB1
 * 2.4 spi touch screen, 全动电子    
 for STM32F103RC  
 (baidupan) 2.4-SPI-9341-STM32F103RC-NoTouch_v1.rar  
+http://www.lcdwiki.com/zh/2.4inch_SPI_Module_ILI9341_SKU:MSP2402  
+(baidupan) Demo_STM32F103RCT6_Software_SPI_v1.rar  
 PB9<--->LED  
 PB13<--->SCK  
 PB15<--->SDI(MOSI)  
