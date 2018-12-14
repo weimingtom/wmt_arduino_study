@@ -247,6 +247,21 @@ NC<--->SDO(MISO)
 #25(left 13)<---->GND  
 #17(left 9)<---->3.3V  
 
+* 2.4 spi touch screen, 全动电子    
+for arduino  
+http://www.lcdwiki.com/zh/2.4inch_SPI_Module_ILI9341_SKU:MSP2402  
+(baidupan) arduino_2.4inch_spi_display_graphics_v1.rar  
+NC/D12<--->SDO(MISO)  
+5V/3V3<--->LED  
+D13<--->SCK  
+D11<--->SDI(MOSI)  
+A3<--->DC  
+A4<--->RESET  
+A5<--->CS  
+GND<---->GND  
+5V/3V3<---->3.3V  
+(need TXS0108E)  
+
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
 
