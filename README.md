@@ -235,6 +235,7 @@ VCC<---->3.3V
 
 * 2.4 spi touch screen, 全动电子    
 for rpi  
+<1> hardware spi:  
 https://github.com/nopnop2002/wiringpi-tft-tool  
 (baidupan) rpi_spi_tft_v1.rar  
 NC<--->SDO(MISO)  
@@ -246,6 +247,16 @@ NC<--->SDO(MISO)
 #24(right 12)<--->CS  
 #25(left 13)<---->GND  
 #17(left 9)<---->3.3V  
+<2> software spi (ported from arduino version):  
+(baidupan) display_graphics_rpi_soft_spi_v1.rar  
+#1(left 1)<-->LED  
+#15(left 8)(3)<--->SCK    
+#11(left 6)(0)<--->SDI(MOSI)    
+#3(left 2)(8)<--->DC    
+#5(left 3)(9)<--->RESET    
+#24(right 12)(10)<--->CS    
+#39(left 20)<---->GND    
+#17(left 9)<---->3.3V    
 
 * 2.4 spi touch screen, 全动电子    
 for arduino  
