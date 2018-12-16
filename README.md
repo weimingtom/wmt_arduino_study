@@ -77,6 +77,8 @@ VCC<->3.3V
 GND<->GND  
 SCL<->A5/SCL  
 SDA<->A4/SDA  
+<> for nano  
+https://gitee.com/weimingtom/arduboymod  
 
 * ZHONGBEST OLED 12864, i2c, 4 pins, ssd1306  
 for stm32vldiscovery  
@@ -191,6 +193,9 @@ for arduino
 see arduino_lcd_ili9486  
 (baidupan) Example01-DisplayString_v1.rar  
 (baidupan) Example07-ShowBMP_320X480_v1.rar  
+<> wifiboy WiFiBoy32 Tetris Game, for auduino mega2560  
+https://wifiboy.org/tutorials.html  
+(baidupan) wb32_tetris_game_v1.rar  
 
 * 2.4inch  
 2.4寸 TFT 液晶屏 触摸屏 彩屏模块  
