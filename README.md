@@ -253,7 +253,7 @@ NC<--->SDO(MISO)
 #25(left 13)<---->GND  
 #17(left 9)<---->3.3V  
 <2> software spi (ported from arduino version):  
-(baidupan) display_graphics_rpi_soft_spi_v1.rar  
+(baidupan) display_graphics_rpi_soft_spi_v2.rar  
 #1(left 1)<-->LED  
 #15(left 8)(3)<--->SCK    
 #11(left 6)(0)<--->SDI(MOSI)    
