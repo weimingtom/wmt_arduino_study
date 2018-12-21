@@ -212,7 +212,7 @@ TFT1.44寸彩屏资料 V6.0.zip
 https://github.com/telamon/utft  
 
 * 中景园, 1.44' TFT, spi, 直插式
-for STM32F103RC (software spi)    
+<> for STM32F103RC (software spi)    
 (baidupan) 1.44LCD-STM32F103RC_v1.rar  
 (baidupan) UCGUI_touch_1.44LCD-STM32F103RC_v1.rar  
 GND<->GND  
@@ -223,6 +223,16 @@ RES<->PB11
 DC<->PB10  
 CS<->PB12  
 BL<->PB1  
+<> for rpi (hardware spi)  
+(baidupan) 1.44inch-LCD-HAT-Code.7z  
+GND<--> (left 20)  
+VCC<--> (left 1)  
+SCL<-->11(left 12)  
+SDA<-->10(left 10)  
+RES<-->27(left 7)  
+DC<-->25(right 11)  
+CS<-->8(right 12)  
+BL<-->24(right 9)  
 
 * 2.4 spi touch screen, 全动电子    
 for STM32F103RC  
