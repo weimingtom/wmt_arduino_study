@@ -235,6 +235,7 @@ CS<-->8(right 12)
 BL<-->24(right 9) 
 <> for rpi (software spi)  
 (baidupan) display_graphics_rpi_soft_spi_v3.rar  
+(600ms per frame)  
 GND<-->(left 20)  
 VCC<-->(left 1)  
 SCL<-->(left 8)  
@@ -275,6 +276,7 @@ NC<--->SDO(MISO)
 <2> software spi (ported from arduino version):  
 (baidupan) display_graphics_rpi_soft_spi_v2.rar  
 (baidupan) display_graphics_rpi_soft_spi_v3.rar  
+(2700ms per frame)  
 #1(left 1)<-->LED  
 #15(left 8)(3)<--->SCK    
 #11(left 6)(0)<--->SDI(MOSI)    
