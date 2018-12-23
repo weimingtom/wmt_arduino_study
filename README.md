@@ -529,3 +529,7 @@ http://arduboy.ried.cl
 * Arduboy-clone  
 https://github.com/B45i/Arduboy-clone  
 
+## gamebuino  
+http://www.jiguo.com/article/index/50815.html  
+http://microchip.eefocus.com/module/forum/thread-8974-1-1.html  
+
