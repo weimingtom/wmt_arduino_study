@@ -535,3 +535,5 @@ http://microchip.eefocus.com/module/forum/thread-8974-1-1.html
 
 ## Winbond flash  
 https://github.com/adafruit/Adafruit_TinyFlash  
+https://www.cnblogs.com/zlbg/p/4246721.html  
+http://www.instructables.com/id/How-to-Design-with-Discrete-SPI-Flash-Memory/?ALLSTEPS  
