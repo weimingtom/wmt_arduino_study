@@ -504,9 +504,12 @@ http://www.amarino-toolkit.net/index.php/download.html
 LCD Wiki是一家开源共享的专业显示屏分享网站  
 http://www.lcdwiki.com/zh  
 
-## 万能板的焊接方法（多图）  
+## 洞洞板，万用板  
+万能板的焊接方法（多图）  
 http://adi.eefocus.com/module/forum/thread-594271-1-1.html  
 (baidupan) 万能板的焊接方法（多图）.doc  
+连孔板（特加特）  
+proto shield  
 
 ## arduino365 / 中贝斯特  
 http://arduino365.com/2017/01/06/教程示例索引页/  
