@@ -232,7 +232,17 @@ SDA<-->10(left 10)
 RES<-->27(left 7)  
 DC<-->25(right 11)  
 CS<-->8(right 12)  
-BL<-->24(right 9)  
+BL<-->24(right 9) 
+<> for rpi (software spi)  
+(baidupan) display_graphics_rpi_soft_spi_v3.rar  
+GND<-->(left 20)  
+VCC<-->(left 1)  
+SCL<-->(left 8)  
+SDA<-->(left 6)  
+RES<-->(left 3)  
+DC<-->(left 2)  
+CS<-->(right 12)  
+BL<-->(left 9)  
 
 * 2.4 spi touch screen, 全动电子    
 for STM32F103RC  
@@ -264,6 +274,7 @@ NC<--->SDO(MISO)
 #17(left 9)<---->3.3V  
 <2> software spi (ported from arduino version):  
 (baidupan) display_graphics_rpi_soft_spi_v2.rar  
+(baidupan) display_graphics_rpi_soft_spi_v3.rar  
 #1(left 1)<-->LED  
 #15(left 8)(3)<--->SCK    
 #11(left 6)(0)<--->SDI(MOSI)    
