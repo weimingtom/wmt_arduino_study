@@ -301,6 +301,18 @@ GND<---->GND
 5V/3V3<---->3.3V  
 (need TXS0108E)  
 
+## LCD  
+* Nokia5110  
+(baidupan) nokia5110_stc_v1.rar  
+RST<--->P2.1  
+CE<--->P2.2  
+DC<--->P2.3  
+Din<--->P2.4  
+Clk<--->P2.5  
+Vcc<--->5V  
+BL<--->5V  
+Gnd<--->GND  
+
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
 
