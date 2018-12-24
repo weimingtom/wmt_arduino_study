@@ -301,6 +301,10 @@ GND<---->GND
 5V/3V3<---->3.3V  
 (need TXS0108E)  
 
+* 2.4 uno screen, 信泰微  
+for arduino uno  
+(baidupan) 2.4inch_arduino_v1.rar  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
