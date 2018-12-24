@@ -314,6 +314,19 @@ Vcc<--->5V
 BL<--->5V  
 Gnd<--->GND  
 
+* Nokia5110
+for arduino uno   
+(baidupan)  
+https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library  
+RST<--->D3  
+CE<--->D4  
+DC<--->D5  
+Din<--->D6  
+Clk<--->D7  
+Vcc<--->Vin  
+BL<--->5V  
+Gnd<--->GND  
+
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
 
