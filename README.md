@@ -553,3 +553,6 @@ http://www.instructables.com/id/How-to-Design-with-Discrete-SPI-Flash-Memory/?AL
 
 ## Level Shifter  
 http://henrysbench.capnfatz.com/henrys-bench/arduino-displays/arduino-1-44-in-spi-tft-display-tutorial/  
+
+## LCD5110_Basic  
+http://www.rinkydinkelectronics.com/library.php?id=44  
