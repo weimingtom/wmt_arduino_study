@@ -316,7 +316,7 @@ Gnd<--->GND
 
 * Nokia5110
 for arduino uno   
-(baidupan)  
+(baidupan) nokia5110_arduino_v1.rar  
 https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library  
 RST<--->D3  
 CE<--->D4  
