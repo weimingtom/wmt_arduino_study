@@ -303,6 +303,7 @@ GND<---->GND
 
 ## LCD  
 * Nokia5110  
+for stc89c52  
 (baidupan) nokia5110_stc_v1.rar  
 RST<--->P2.1  
 CE<--->P2.2  
