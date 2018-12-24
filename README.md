@@ -556,3 +556,4 @@ http://henrysbench.capnfatz.com/henrys-bench/arduino-displays/arduino-1-44-in-sp
 
 ## LCD5110_Basic  
 http://www.rinkydinkelectronics.com/library.php?id=44  
+https://www.jianshu.com/p/da13f46f59ab  
