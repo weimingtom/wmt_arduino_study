@@ -7,6 +7,9 @@ My Arduino Uno study
 ## AVR Manual  
 * http://www.nongnu.org/avr-libc/user-manual/index.html  
 
+## Arduino Library List  
+* https://www.arduinolibraries.info  
+
 ## BBS  
 * http://bbs.elecfans.com  
 * http://www.elecfans.com  
