@@ -593,3 +593,7 @@ https://www.jianshu.com/p/da13f46f59ab
 
 ## Adafruit GFX Graphics Library  
 https://learn.adafruit.com/adafruit-gfx-graphics-library/overview  
+
+## 示波器  
+逻辑分析仪  
+
