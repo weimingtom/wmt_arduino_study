@@ -214,7 +214,7 @@ TFT1.44寸彩屏资料 V6.0.zip
 (baidupan) UTFT_Font_128x128_Serial_v1.rar  
 https://github.com/telamon/utft  
 
-* 中景园, 1.44' TFT, spi, 直插式  
+* 中景园, 1.44' TFT, spi, 直插式, 配套屏幕    
 <> for STM32F103RC (software spi)    
 (baidupan) 1.44LCD-STM32F103RC_v1.rar  
 (baidupan) UCGUI_touch_1.44LCD-STM32F103RC_v1.rar  
@@ -247,6 +247,9 @@ RES<-->(left 3)
 DC<-->(left 2)  
 CS<-->(right 12)  
 BL<-->(left 9)  
+<> for spi (native software spi)  
+(baidupan) showbmp_native_2.4_v3.tar.gz  
+(82ms per frame, display color error)  
 
 * 2.4 spi touch screen, 全动电子    
 for STM32F103RC  
@@ -288,6 +291,10 @@ NC<--->SDO(MISO)
 #24(right 12)(10)<--->CS    
 #39(left 20)<---->GND    
 #17(left 9)<---->3.3V    
+<3> native software spi  
+(baidupan) (baidupan) showbmp_native_2.4_v3.tar.gz   
+(48ms perframe)  
+
 
 * 2.4 spi touch screen, 全动电子    
 for arduino  
@@ -307,6 +314,17 @@ GND<---->GND
 * 2.4 uno screen, mcufriend, 240x320, 信泰微  
 for arduino uno  
 (baidupan) 2.4inch_arduino_v1.rar  
+
+* 1.3 ips, 中景园    
+(baidupan) showbmp_native_v2_success.tar.gz  
+(baidupan) rpi-gpio-benchmark-master_v1_success.tar.gz  
+GND<-->(left 20)  
+VCC<-->(left 1)  
+SCL<-->(left 8)  
+SDA<-->(left 6)  
+RES<-->(left 3)  
+DC<-->(left 2)  
+BLK<-->(right 12) (not necessary)    
 
 ## LCD  
 * Nokia5110  
