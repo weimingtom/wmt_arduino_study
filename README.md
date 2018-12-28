@@ -316,8 +316,11 @@ for arduino uno
 (baidupan) 2.4inch_arduino_v1.rar  
 
 * 1.3 ips, 中景园    
+<1> for rpi  
 (baidupan) showbmp_native_v2_success.tar.gz  
 (baidupan) rpi-gpio-benchmark-master_v1_success.tar.gz  
+(baidupan) showbmp_native_v3_success_init_twice.tar.gz  
+(need init twice, or black screen)  
 GND<-->(left 20)  
 VCC<-->(left 1)  
 SCL<-->(left 8)  
@@ -325,6 +328,8 @@ SDA<-->(left 6)
 RES<-->(left 3)  
 DC<-->(left 2)  
 BLK<-->(right 12) (not necessary)    
+<2> for stm32f103rc, 直插  
+(baidupan) 1.3IPS-STM32F103RC_v1.rar  
 
 ## LCD  
 * Nokia5110  
