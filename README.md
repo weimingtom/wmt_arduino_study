@@ -328,6 +328,7 @@ SDA<-->(left 6)
 RES<-->(left 3)  
 DC<-->(left 2)  
 BLK<-->(right 12) (not necessary)    
+(baidupan) infones_rpi_v1.rar  
 <2> for stm32f103rc, 直插  
 (baidupan) 1.3IPS-STM32F103RC_v1.rar  
 
