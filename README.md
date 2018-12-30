@@ -623,3 +623,6 @@ https://learn.adafruit.com/adafruit-gfx-graphics-library/overview
 
 ## Microduino  
 https://github.com/wasdpkj/Microduino-IDE-Support  
+
+## mini D1 wifi ESP-12F N ESP8266开发板+TFT液晶屏模块， 信泰微  
+https://github.com/wemos/D1_mini_Examples  
