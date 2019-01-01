@@ -528,9 +528,10 @@ RST<->P1.3
 * CC2541  
 * (baidupan) bleserialport_v2.rar  
 
-## Bluetooth (HC-05) Drivers  
+## Bluetooth (HC-05) Drivers, 蓝牙模块    
 * (baidupan) amarino_v2.rar  
 * (baidupan) bluetoothchat_v1.rar    
+* (baidupan) amarino_v8_understand_send_recv_place.rar  
 
 ## LED  
 * STM32L151C8T6_pb9_led_toggle_v1.rar  
