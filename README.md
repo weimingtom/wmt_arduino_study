@@ -310,6 +310,7 @@ A5<--->CS
 GND<---->GND  
 5V/3V3<---->3.3V  
 (need TXS0108E)  
+(baidupan) wb32_tetris_game_wifiboymod_v3.rar  
 
 * 2.4 uno screen, mcufriend, 240x320, 信泰微  
 for arduino uno  
