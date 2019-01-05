@@ -333,9 +333,22 @@ BLK<-->(right 12) (not necessary)
 <2> for stm32f103rc, 直插  
 (baidupan) 1.3IPS-STM32F103RC_v1.rar  
 
-* 信泰微, 1.44寸TFT, 128x128  
+* 信泰微, 1.44寸TFT, ST7735, 128x128, spi, hardware  
+<> for esp8266  
 (baidupan) display_graphics_hard_esp8266_v1.rar  
-
+VCC<--->3V  
+GND<--->G  
+GND<--->NC  
+NC<--->NC  
+NC<--->NC  
+LED<--->D4  
+CLK<--->D5  
+SDI<--->D7  
+RS<--->D3  
+RST<--->D2  
+CS<--->D1  
+https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst  
+https://github.com/nzmichaelh/Adafruit-ST7735-Library  
 
 ## LCD  
 * Nokia5110  
