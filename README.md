@@ -333,6 +333,10 @@ BLK<-->(right 12) (not necessary)
 <2> for stm32f103rc, 直插  
 (baidupan) 1.3IPS-STM32F103RC_v1.rar  
 
+* 信泰微, 1.44寸TFT, 128x128  
+(baidupan) display_graphics_hard_esp8266_v1.rar  
+
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
