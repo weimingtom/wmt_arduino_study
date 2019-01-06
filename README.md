@@ -349,7 +349,12 @@ RST<--->D2
 CS<--->D1  
 https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst  
 https://github.com/nzmichaelh/Adafruit-ST7735-Library  
+lcdwiki, for 1.44  
+(baidupan) Simple_Module_ESP8266_Demo.zip  
 http://www.lcdwiki.com/zh/【Application】1.44inch_SPI_Module_MSP1443_with_D1_mini  
+lcdwiki, for 1.6  
+(baidupan) Demo_ESP8266_SPI.zip  
+http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mini  
 
 ## LCD  
 * Nokia5110  
