@@ -349,6 +349,7 @@ RST<--->D2
 CS<--->D1  
 https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst  
 https://github.com/nzmichaelh/Adafruit-ST7735-Library  
+http://www.lcdwiki.com/zh/【Application】1.44inch_SPI_Module_MSP1443_with_D1_mini  
 
 ## LCD  
 * Nokia5110  
@@ -375,6 +376,7 @@ Clk<--->D7
 Vcc<--->Vin  
 BL<--->5V  
 Gnd<--->GND  
+(baidupan) gamebuino_nano_v1.rar    
 
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
