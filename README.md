@@ -383,6 +383,25 @@ BL<--->5V
 Gnd<--->GND  
 (baidupan) gamebuino_nano_v1.rar    
 
+* LCD1602  
+(baidupan) lcd1602_arduino_v1.rar  
+VSS<-->GND  
+VDD<-->5V  
+V0<-->R?,5V,GND  
+RS<-->D12  
+RW<-->GND  
+E<-->D11  
+D0<-->NC  
+D1<-->NC  
+D2<-->NC  
+D3<-->NC  
+D4<-->D5  
+D5<-->D4  
+D6<-->D3  
+D7<-->D2  
+A<-->5V  
+K<-->GND  
+
 ## OLED Drivers (not test, see my baidupan)  
 * 0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏  
 
