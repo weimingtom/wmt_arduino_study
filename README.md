@@ -383,7 +383,8 @@ BL<--->5V
 Gnd<--->GND  
 (baidupan) gamebuino_nano_v1.rar    
 
-* LCD1602  
+* LCD1602A  
+for arduino  
 (baidupan) lcd1602_arduino_v1.rar  
 VSS<-->GND  
 VDD<-->5V  
@@ -399,6 +400,26 @@ D4<-->D5
 D5<-->D4  
 D6<-->D3  
 D7<-->D2  
+A<-->5V  
+K<-->GND  
+
+* LCD1602A  
+for stc89c52  
+(baidupan) lcd1602_stc_v1.rar   
+VSS<-->GND  
+VDD<-->5V  
+V0<-->R?,5V,GND  
+RS<-->P1.0  
+RW<-->P1.1  
+E<-->P1.2  
+D0<-->P2.0  
+D1<-->P2.1  
+D2<-->P2.2  
+D3<-->P2.3  
+D4<-->P2.4  
+D5<-->P2.5  
+D6<-->P2.6  
+D7<-->P2.7  
 A<-->5V  
 K<-->GND  
 
