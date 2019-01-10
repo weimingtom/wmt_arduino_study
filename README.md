@@ -602,7 +602,7 @@ RST<->P1.3
 * STM32L151C8T6_pb9_led_toggle_v1.rar  
 
 ## Storage  
-* W25Q16, 2MB  
+* W25Q16 (on board), 2MB  
 for mcudev stm32f407ve  
 (baidupan) W25Q16_stm32f407ve_v1.rar  
 
