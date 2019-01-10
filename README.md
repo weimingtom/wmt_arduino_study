@@ -332,6 +332,16 @@ BLK<-->(right 12) (not necessary)
 (baidupan) infones_rpi_v1.rar  
 <2> for stm32f103rc, 直插  
 (baidupan) 1.3IPS-STM32F103RC_v1.rar  
+<3> for stm32f407ve  
+GND<-->GND  
+VCC<-->3V3  
+SCL<-->PB13    
+SDA<-->PB15  
+RES<-->PB11  
+DC<-->PB10  
+BLK<-->PB12 (not necessary)    
+BLK<-->(right 12) (not necessary)    
+(baidupan) 1.3IPS_stm32f407ve_v1.rar  
 
 * 信泰微, 1.44寸TFT, ST7735, 128x128, spi, hardware  
 <> for esp8266  
