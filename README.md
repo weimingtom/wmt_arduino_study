@@ -342,6 +342,15 @@ DC<-->PB10
 BLK<-->PB12 (not necessary)    
 BLK<-->(right 12) (not necessary)    
 (baidupan) 1.3IPS_stm32f407ve_v1.rar  
+<4> for esp32  
+GND<-->Right top 1  
+VCC<-->Left top 1  
+SCL<-->Left top 7  
+SDA<-->Left top 8  
+RES<-->Left top 9  
+DC<-->Left top 10  
+BLK<-->Left top 11  
+(baidupan) ips1_3_esp32_v1.rar  
 
 * 信泰微, 1.44寸TFT, ST7735, 128x128, spi, hardware  
 <> for esp8266  
