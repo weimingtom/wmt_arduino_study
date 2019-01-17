@@ -351,6 +351,15 @@ RES<-->Left top 9
 DC<-->Left top 10  
 BLK<-->Left top 11  
 (baidupan) ips1_3_esp32_v1.rar  
+<5> for stm32f429ig  
+GND<-->GND  
+VCC<-->3V3  
+SCL<-->PB13    
+SDA<-->PB15  
+RES<-->PB11  
+DC<-->PB10  
+BLK<-->PB12 (not necessary)    
+(baidupan) 1.3ips_stm32f429ig_v1.rar  
 
 * 信泰微, 1.44寸TFT, ST7735, 128x128, spi, hardware  
 <> for esp8266  
