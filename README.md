@@ -737,3 +737,8 @@ https://github.com/wemos/D1_mini_Examples
 
 ## 18650  
 18650锂电池2节+2节电池盒+充电器套装 Arduino GSM GPRS移动电源, 大学生电子商铺    
+
+## GPIO扩展元件  
+* 74HC595是串转并8位输出，纯数字电路  
+* 74HC4051是多路复用，数模混合电路  
+* MCP23017是I2C扩展GPIO，纯数字电路（常用于树莓派等） ​​​​  
