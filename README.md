@@ -330,6 +330,15 @@ RES<-->(left 3)
 DC<-->(left 2)  
 BLK<-->(right 12) (not necessary)    
 (baidupan) infones_rpi_v1.rar  
+<1.1> for rpi and wiringpi  
+GND<-->(left 20)  
+VCC<-->(left 1)  
+SCL<-->(left 8)<-->(hw spi)(left 12)  
+SDA<-->(left 6)<-->(hw spi)(left 10)  
+RES<-->(left 3)  
+DC<-->(left 2)  
+BLK<-->(right 12)  
+(baidupan) showbmp_wiringpi_v3.tar.gz
 <2> for stm32f103rc, 直插  
 (baidupan) 1.3IPS-STM32F103RC_v1.rar  
 <3> for stm32f407ve  
