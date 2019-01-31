@@ -341,7 +341,7 @@ BLK<-->(right 12)
 (baidupan) showbmp_wiringpi_v3.tar.gz
 <2> for stm32f103rc, 直插  
 (baidupan) 1.3IPS-STM32F103RC_v1.rar  
-<3> for stm32f407ve  
+<3> for stm32f407ve, sw spi    
 GND<-->GND  
 VCC<-->3V3  
 SCL<-->PB13    
@@ -351,6 +351,15 @@ DC<-->PB10
 BLK<-->PB12 (not necessary)    
 BLK<-->(right 12) (not necessary)    
 (baidupan) 1.3IPS_stm32f407ve_v1.rar  
+<3.1> for stm32f407ve, hw spi
+GND<-->GND  
+VCC<-->3V3  
+SCL<-->PB13<--->(hw spi)PB3    
+SDA<-->PB15<--->(hw spi)PB5  
+RES<-->PB11  
+DC<-->PB10  
+BLK<-->PB12 (not necessary)    
+(baidupan) 1.3ips_hwspi_stm32f407ve_v1.rar  
 <4> for esp32  
 GND<-->Right top 1  
 VCC<-->Left top 1  
