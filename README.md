@@ -26,6 +26,10 @@ My Arduino Uno study
 * https://github.com/adafruit/Adafruit_SSD1306  
 * https://github.com/Hyvok/SSD1306-display-driver-for-Arduino  
 
+## My Game  
+https://gitee.com/weimingtom/arduboymod  
+https://gitee.com/weimingtom/wifiboymod    
+
 ## RTOS  
 * https://github.com/zephyrproject-rtos  
 * https://github.com/PeterVranken/RTuinOS  
@@ -311,6 +315,7 @@ GND<---->GND
 5V/3V3<---->3.3V  
 (need TXS0108E)  
 (baidupan) wb32_tetris_game_wifiboymod_v3.rar  
+https://gitee.com/weimingtom/wifiboymod  
 
 * 2.4 uno screen, mcufriend, 240x320, 信泰微  
 for arduino uno  
