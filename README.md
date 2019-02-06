@@ -662,7 +662,7 @@ RST<->P1.3
 * CC2541  
 * (baidupan) bleserialport_v2.rar  
 
-## Bluetooth (HC-05) Drivers, 蓝牙模块    
+## Bluetooth (HC-05) Drivers, HC05蓝牙模块    
 * (baidupan) amarino_v2.rar  
 see https://github.com/rubanraj54/amarino  
 * (baidupan) bluetoothchat_v1.rar    
