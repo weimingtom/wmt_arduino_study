@@ -664,8 +664,13 @@ RST<->P1.3
 
 ## Bluetooth (HC-05) Drivers, 蓝牙模块    
 * (baidupan) amarino_v2.rar  
+see https://github.com/rubanraj54/amarino  
 * (baidupan) bluetoothchat_v1.rar    
 * (baidupan) amarino_v8_understand_send_recv_place.rar  
+* (baidupan) amarino_v9_bluetooth_chat.rar, with amarino and android-BluetoothChat projects    
+* see https://github.com/googlesamples/android-BluetoothChat  
+But you should modify MY_UUID_SECURE to SPP UUID : 00001101-0000-1000-8000-00805F9B34FB  
+https://blog.csdn.net/chy555chy/article/details/52193659  
 
 ## LED  
 * STM32L151C8T6_pb9_led_toggle_v1.rar  
