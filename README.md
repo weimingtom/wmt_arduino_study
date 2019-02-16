@@ -401,6 +401,19 @@ RES<-->P15
 DC<-->P16  
 BLK<-->P17  
 (baidupan) ips1_3_linkit7697_v1.rar  
+<8> for esp32wrover (KE32-WROVER-C10), software/haradware spi  
+(baidupan) ips1_3_esp32wrover_v3.rar  
+(baidupan) ips1_3_esp32wrover_hard_v3.rar  
+GND<-->Left top 1    
+VCC<-->Left top 2    
+SCL<-->GPIO32@Left top 8(soft)<--->GPIO14@Left bottom 8(hard)  
+SDA<-->GPIO33@Left top 9(soft)<--->GPIO13@Left bottom 5(hard)  
+RES<-->GPIO25@Left top 10  
+DC<-->GPIO26@Left top 11  
+BLK<-->NC(not connect)  
+GPIO27@Left top 12<-->D4(LED_BUILTIN)      
+board: ESP32 Wrover Module  
+upload speed 115200  
 
 * 信泰微, 1.44寸TFT, ST7735, 128x128, spi, hardware  
 <> for esp8266  
