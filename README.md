@@ -322,7 +322,7 @@ https://gitee.com/weimingtom/wifiboymod
 for arduino uno  
 (baidupan) 2.4inch_arduino_v1.rar  
 
-* 1.3 ips, 中景园    
+* 1.3 ips, 中景园, ST7789VW      
 <1> for rpi  
 (baidupan) showbmp_native_v2_success.tar.gz  
 (baidupan) rpi-gpio-benchmark-master_v1_success.tar.gz  
@@ -438,6 +438,9 @@ http://www.lcdwiki.com/zh/【Application】1.44inch_SPI_Module_MSP1443_with_D1_m
 lcdwiki, for 1.6  
 (baidupan) Demo_ESP8266_SPI.zip  
 http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mini  
+
+* 2.0 ips, 金鑫液晶显示屏, 飞越电子, ST7789V    
+(baidupan) ipstest_stm32f103rc_v2_success.rar  
 
 ## LCD  
 * Nokia5110  
