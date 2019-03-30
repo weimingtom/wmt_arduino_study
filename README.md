@@ -439,7 +439,7 @@ lcdwiki, for 1.6
 (baidupan) Demo_ESP8266_SPI.zip  
 http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mini  
 
-* 2.0 ips, 金鑫液晶显示屏, 飞越电子, ST7789V    
+* 2.0 ips, 金鑫液晶显示屏, 飞越液晶显示屏, ST7789V    
 <1> for stm32f103rc  
 (baidupan) ipstest_stm32f103rc_v2_success.rar  
 <2> for esp32, soft spi  
