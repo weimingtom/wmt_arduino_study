@@ -444,6 +444,7 @@ http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mi
 (baidupan) ipstest_stm32f103rc_v2_success.rar  
 <2> for esp32, soft spi  
 (baidupan) ips2_0_esp32_v1_rotate_screen.rar  
+(baidupan) ips2_0_esp32_2_v1.rar  
 
 ## LCD  
 * Nokia5110  
