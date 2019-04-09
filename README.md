@@ -446,6 +446,11 @@ http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mi
 (baidupan) ips2_0_esp32_v1_rotate_screen.rar  
 (baidupan) ips2_0_esp32_2_v1.rar  
 
+* 3.5inch rpi TFT, 信泰微, goodtft, 3.5寸彩屏触摸屏TFT, ili9486      
+<1> for rpi3  
+Ported from http://www.waveshare.net/wiki/3.5inch_TFT_Touch_Shield  
+(baidupan) 3.5inch_ili9486_rpi3_v1.rar  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
