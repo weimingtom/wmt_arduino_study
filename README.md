@@ -256,8 +256,8 @@ BL<-->(left 9)
 (baidupan) showbmp_native_2.4_v3.tar.gz  
 (82ms per frame, display color error)  
 
-* 2.4 spi touch screen, 全动电子    
-for STM32F103RC  
+* 2.4 spi touch screen, 全动电子  
+<1> for STM32F103RC  
 (baidupan) 2.4-SPI-9341-STM32F103RC-NoTouch_v1.rar  
 http://www.lcdwiki.com/zh/2.4inch_SPI_Module_ILI9341_SKU:MSP2402  
 (baidupan) Demo_STM32F103RCT6_Software_SPI_v1.rar  
@@ -269,6 +269,23 @@ PB12<--->RESET
 PB11<--->CS  
 GND<---->GND  
 VCC<---->3.3V  
+<2> ucgui touch  
+for 中景园stm32f103rct6  
+(baidupan) spi2.4_UCGUI_touch_v4_stm32f103rc.rar  
+VCC<->VCC  
+GND<->GND  
+CS<->PB13  
+RESET<->PB15  
+DC<->PB11  
+SDI(MOSI)<->PB10  
+SCK<->PB12  
+LED<->3.3V(left bottom)  
+SDO(MISO)<->PB1  
+T_CLK<->PA0  
+T_CS<->PA1  
+T_DIN<->PA2  
+T_DO<->PA3  
+T_IRQ<->PA4  
 
 * 2.4 spi touch screen, 全动电子    
 for rpi  
@@ -299,7 +316,6 @@ NC<--->SDO(MISO)
 <3> native software spi  
 (baidupan) (baidupan) showbmp_native_2.4_v3.tar.gz   
 (48ms perframe)  
-
 
 * 2.4 spi touch screen, 全动电子    
 for arduino  
