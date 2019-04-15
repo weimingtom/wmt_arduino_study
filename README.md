@@ -467,6 +467,14 @@ http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mi
 Ported from http://www.waveshare.net/wiki/3.5inch_TFT_Touch_Shield  
 (baidupan) 3.5inch_ili9486_rpi3_v1.rar  
 (baidupan) showbmp_vc_vv3_spi_32MHz_with_vendor.rar  
+http://www.waveshare.net/shop/3.5inch-RPi-LCD-A.htm  
+http://www.waveshare.net/shop/3.2inch-RPi-LCD-C.htm  
+
+* 2.4inch rpi TFT，全动, goodtft  
+<1> for rpi3  
+Ported from http://www.waveshare.net/wiki/2.8inch_TFT_Touch_Shield  
+(baidupan) 2.4inch_ili9341_rpi3_v1.rar  
+http://www.waveshare.net/shop/2.8inch-RPi-LCD-A.htm  
 
 ## LCD  
 * Nokia5110  
