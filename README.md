@@ -470,7 +470,7 @@ Ported from http://www.waveshare.net/wiki/3.5inch_TFT_Touch_Shield
 http://www.waveshare.net/shop/3.5inch-RPi-LCD-A.htm  
 http://www.waveshare.net/shop/3.2inch-RPi-LCD-C.htm  
 
-* 2.4inch rpi TFT，全动, goodtft  
+* 2.4inch rpi TFT, 全动, 触摸屏TFT显示屏彩屏320x240, goodtft, ili9341    
 <1> for rpi3  
 Ported from http://www.waveshare.net/wiki/2.8inch_TFT_Touch_Shield  
 (baidupan) 2.4inch_ili9341_rpi3_v1.rar  
