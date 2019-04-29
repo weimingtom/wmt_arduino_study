@@ -853,3 +853,8 @@ Codecraft (base on Scratch 3.0), Match up
 
 ## hexagon5un/AVR-Programming  
 https://github.com/hexagon5un/AVR-Programming  
+
+## PCB  
+https://jk.jiepei.com  
+https://www.jdbpcb.com  
+
