@@ -476,6 +476,12 @@ Ported from http://www.waveshare.net/wiki/2.8inch_TFT_Touch_Shield
 (baidupan) 2.4inch_ili9341_rpi3_v1.rar  
 http://www.waveshare.net/shop/2.8inch-RPi-LCD-A.htm  
 
+* 2.8inch rpi TFT, 友善2.8寸电阻触摸显示屏, ST7789S    
+http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2%278_SPI_Key_TFT/zh  
+http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2'8_SPI_TFT/zh  
+https://github.com/friendlyarm/h3_lichee/blob/master/linux-3.4/drivers/staging/fbtft/fb_st7789s.c  
+(baidupan) spi2.8matrix_rpi_v1.rar  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
