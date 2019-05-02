@@ -480,6 +480,7 @@ http://www.waveshare.net/shop/2.8inch-RPi-LCD-A.htm
 http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2%278_SPI_Key_TFT/zh  
 http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2'8_SPI_TFT/zh  
 https://github.com/friendlyarm/h3_lichee/blob/master/linux-3.4/drivers/staging/fbtft/fb_st7789s.c  
+https://github.com/friendlyarm/linux-3.4.y/blob/nanopi2-lollipop-mr1/drivers/staging/fbtft/fb_st7735s.c  
 (baidupan) spi2.8matrix_rpi_v1.rar  
 
 ## LCD  
