@@ -865,5 +865,9 @@ https://github.com/hexagon5un/AVR-Programming
 https://jk.jiepei.com  
 https://www.jdbpcb.com  
 https://www.jiepei.com/faq/294.html  
+CAD別ガーバーデータ出力手順  
+https://unicraft-jp.com/gerberdata/  
+PCBE  
+https://www.vector.co.jp/soft/winnt/business/se056371.html  
 
 
