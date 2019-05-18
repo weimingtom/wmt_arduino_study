@@ -484,6 +484,10 @@ https://github.com/friendlyarm/h3_lichee/blob/master/linux-3.4/drivers/staging/f
 https://github.com/friendlyarm/linux-3.4.y/blob/nanopi2-lollipop-mr1/drivers/staging/fbtft/fb_st7735s.c  
 (baidupan) spi2.8matrix_rpi_v1.rar  
 
+* 3.5inch tft, 中景园3.5寸spi rgb屏，320x480, ili9486L  
+<1> for stm32f103rct6  
+(baidupan) spi3.5_stm32f103rct6_v1.rar  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
