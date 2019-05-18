@@ -488,6 +488,45 @@ https://github.com/friendlyarm/linux-3.4.y/blob/nanopi2-lollipop-mr1/drivers/sta
 <1> for stm32f103rct6  
 (baidupan) spi3.5_stm32f103rct6_v1.rar  
 
+* 3.5inch tft 40pin, 中景园3.5寸rgb裸屏，320x480, ili9486L, 	Z350IT006 V0.3  
+<1> for stm32f103rct6, spi 4线    
+(baidupan) spi3.5luo_stm32f103rct6_v1.rar  
+接法同飞越的3.5寸  
+
+* 3.5inch tft 40pin, 飞越液晶屏，320x480, ili9481, HT035SHV009NS-9481,2018/06/06  
+<1> for stm32f103rct6, spi 4线    
+(baidupan) spi3.5luo_stm32f103rct6_v1.rar  
+1-4,TP<->NC  
+5,GND<->GND<-------------(1)  
+6,IOVCC<->3.3V<-----------(2)  
+7,IOVCC<->3.3V  
+8,FMARK<->NC  
+9,TFT_CS<-->GND  
+10,TFT_RS<-->DC<--------------PB10 (6)  
+11,TFT_WR<-->CLK<------------PB13 (3)  
+12,TFT_RD<-->3.3V  
+13,SPI SDI<->MOSI<------------PB15 (4)  
+14,SPI SD0<->MISO<------------PB1 (8)  
+15,TFT_RST<-->RES<------------PB11 (5)  
+16,GND<->GND  
+17,TFT_D0<-->NC  
+18,TFT_D1<-->NC  
+19,TFT_D2<-->NC  
+20,TFT_D3<-->NC  
+21,TFT_D4<-->NC  
+22,TFT_D5<-->NC  
+23,TFT_D6<-->NC  
+24,TFT_D7<-->NC  
+25-32,DB8-DB15<->NC  
+33,LED-A<->R(变阻器)<->3.3V  
+34,LED-K1<->GND  
+35,LED-K2<->NC  
+36,LED-K3<->NC  
+37,GND<->GND  
+38,IM0<->3.3V  
+39,IM1<->3.3V  
+40,IM2<->3.3V  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
