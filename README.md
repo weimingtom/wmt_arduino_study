@@ -526,6 +526,19 @@ https://github.com/friendlyarm/linux-3.4.y/blob/nanopi2-lollipop-mr1/drivers/sta
 38,IM0<->3.3V  
 39,IM1<->3.3V  
 40,IM2<->3.3V  
+<2> for esp32  
+(baidupan) ips3_5_esp32_v3.rar  
+5,GND<->GND<-------------(1) right top 1  
+6,IOVCC<->3.3V<-----------(2) left top 1  
+7,IOVCC<->3.3V  
+8,FMARK<->NC  
+9,TFT_CS<-->GND  
+10,TFT_RS<-->DC<--------------(6) left top 10  
+11,TFT_WR<-->CLK<------------(3) left top 7  
+12,TFT_RD<-->3.3V  
+13,SPI SDI<->MOSI<------------(4) left top 8  
+14,SPI SD0<->MISO<------------(8) NC  
+15,TFT_RST<-->RES<------------(5) left top 9   
 
 ## LCD  
 * Nokia5110  
