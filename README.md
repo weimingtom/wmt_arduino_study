@@ -526,7 +526,7 @@ https://github.com/friendlyarm/linux-3.4.y/blob/nanopi2-lollipop-mr1/drivers/sta
 38,IM0<->3.3V  
 39,IM1<->3.3V  
 40,IM2<->3.3V  
-<2> for esp32  
+<2> for esp32, software spi    
 (baidupan) ips3_5_esp32_v3.rar  
 5,GND<->GND<-------------(1) right top 1  
 6,IOVCC<->3.3V<-----------(2) left top 1  
