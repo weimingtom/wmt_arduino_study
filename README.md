@@ -786,6 +786,7 @@ see https://github.com/rubanraj54/amarino
 * see https://github.com/googlesamples/android-BluetoothChat  
 But you should modify MY_UUID_SECURE to SPP UUID : 00001101-0000-1000-8000-00805F9B34FB  
 https://blog.csdn.net/chy555chy/article/details/52193659  
+https://github.com/googlesamples/android-BluetoothChat/pull/30/files  
 
 ## LED  
 * STM32L151C8T6_pb9_led_toggle_v1.rar  
