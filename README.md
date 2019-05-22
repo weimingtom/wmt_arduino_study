@@ -776,6 +776,8 @@ RST<->P1.3
 ## BLE (2.4G) Drivers  
 * CC2541  
 * (baidupan) bleserialport_v2.rar  
+* NRF24L01  
+* TODO  
 
 ## Bluetooth (HC-05) Drivers, HC05蓝牙模块    
 * (baidupan) amarino_v2.rar  
