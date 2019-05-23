@@ -930,4 +930,9 @@ https://unicraft-jp.com/gerberdata/
 PCBE  
 https://www.vector.co.jp/soft/winnt/business/se056371.html  
 
+## 4.3inch  
+SSD1963  
+RA8875  
+https://www.amobbs.com/thread-5575225-1-1.html?_dsign=cd43ec12  
+https://github.com/adafruit/Adafruit-RA8875-Breakout-Board-PCB  
 
