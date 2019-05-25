@@ -936,3 +936,6 @@ RA8875
 https://www.amobbs.com/thread-5575225-1-1.html?_dsign=cd43ec12  
 https://github.com/adafruit/Adafruit-RA8875-Breakout-Board-PCB  
 
+## 硬件hacker!用digispark制作BadUSB  
+https://www.jianshu.com/p/2a3475f46570  
+
