@@ -939,3 +939,5 @@ https://github.com/adafruit/Adafruit-RA8875-Breakout-Board-PCB
 ## 硬件hacker!用digispark制作BadUSB  
 https://www.jianshu.com/p/2a3475f46570  
 
+## 3rd-party boards  
+https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls  
