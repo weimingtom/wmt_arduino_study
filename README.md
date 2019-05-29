@@ -944,3 +944,6 @@ https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-supp
 
 ## PSP Display, LQ043T3DX02  
 https://github.com/Hyvok/PSP-Display-Driver  
+
+## LQ043T3DX02  
+https://github.com/wellrun/bomei_Camera/tree/master/platform/firmware/Drivers/SourceCode/lcd  
