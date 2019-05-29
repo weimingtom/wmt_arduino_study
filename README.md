@@ -941,3 +941,6 @@ https://www.jianshu.com/p/2a3475f46570
 
 ## 3rd-party boards  
 https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls  
+
+## PSP Display, LQ043T3DX02  
+https://github.com/Hyvok/PSP-Display-Driver  
