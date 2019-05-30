@@ -540,6 +540,20 @@ https://github.com/friendlyarm/linux-3.4.y/blob/nanopi2-lollipop-mr1/drivers/sta
 14,SPI SD0<->MISO<------------(8) NC  
 15,TFT_RST<-->RES<------------(5) left top 9   
 
+* 2.4inch spi, 18pin, 飞越液晶屏，华视捷, 320x240, ili9341, HT024SQV003NH-T001,2018/07/04  
+<1> for stm32f103rct6, soft spi    
+(baidupan) luo_STM32F103RCT6_Software_SPI_v1.rar    
+2(RESET)<---->PB12  
+3(SPI_SCL)<---->PB13  
+4(SPI_A0)<---->PB10  
+5(CS)<---->PB11  
+6(SPI_SDA)<---->PB15  
+7(SPI_SDO)<---->NC(PB14)  
+8(GND)<---->GND  
+9(IOVCC)<---->3.3V  
+10(A)<--->(0R,or R)<-->3.3V  
+11(K)<--->GND  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
