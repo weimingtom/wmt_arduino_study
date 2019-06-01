@@ -459,6 +459,12 @@ http://www.lcdwiki.com/zh/【Application】1.6inch_SPI_Module_MSP1601_with_D1_mi
 * 2.0 ips, 金鑫液晶显示屏, 飞越液晶显示屏, ST7789V    
 <1> for stm32f103rc  
 (baidupan) ipstest_stm32f103rc_v2_success.rar  
+(baidupan) ipstest_stm32f103rc_v4_luo.rar  
+SCL<-->PB13  
+SDA<-->PB15  
+RES<-->PB11  
+DC<-->PB10  
+CS<-->PB12  
 <2> for esp32, soft spi  
 (baidupan) ips2_0_esp32_v1_rotate_screen.rar  
 (baidupan) ips2_0_esp32_2_v1.rar  
