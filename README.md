@@ -23,6 +23,7 @@ My Arduino Uno study
 * https://debugdump.com  
 * https://www.mianbaoban.cn  
 * http://bbs.mydigit.cn/thread.php?fid=108  
+* http://www.picbbs.net  
 
 ## Ref  
 * https://github.com/adafruit/Adafruit-GFX-Library  
