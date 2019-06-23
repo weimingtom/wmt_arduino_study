@@ -700,6 +700,16 @@ DIO<->D2
 VCC<->5V(Don't use 3.3V)  
 GND<->GND  
 
+## PS2X controller    
+* arduino uno  
+(baidupan) PS2X_Example_v1.rar  
+GND<->GND  
+VCC<->5V  
+DAT<->D13  
+CMD<->D11  
+CS<->D10  
+CLK<->D12  
+
 ## Button Drivers  
 * for arduino  
 D2<->S<->5V, (Pull down) D2<->R<->GND    
