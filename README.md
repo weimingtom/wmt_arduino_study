@@ -984,3 +984,7 @@ https://github.com/wellrun/bomei_Camera/tree/master/platform/firmware/Drivers/So
 https://sourceforge.net/projects/gcbasic/  
 picbasic  
 http://store.melabs.com/cat/PBP.html  
+
+## mind+  
+http://mindplus.cc  
+
