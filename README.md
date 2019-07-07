@@ -714,8 +714,18 @@ CLK<->D12
 * STM32学习笔记----FC游戏手柄  
 https://blog.csdn.net/Do_Not_Ask_Me/article/details/89460142  
 * esp32  
+2,RXD<->Left top 7,GPIO32  
+3,TXD<->Left top 8,GPIO33  
+4,DTR<->Left top 9,GPIO25  
+6,DSR<->Left top 1,3.3V  
+8,CTS<->Right top 1,GND  
 (baidupan) fc_gamepad_esp32_v1.rar   
 * arduino uno    
+2,RXD<->CLK,D12  
+3,TXD<->LAT,D11  
+4,DTR<->DAT,D10  
+6,DSR<->5V  
+8,CTS<->GND  
 (baidupan) fc_gamepad_uno_v3.rar  
 * SNES_Keyboard    
 https://playground.arduino.cc/Main/InterfacingWithHardware/#joygame  
