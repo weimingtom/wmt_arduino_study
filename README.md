@@ -700,7 +700,7 @@ DIO<->D2
 VCC<->5V(Don't use 3.3V)  
 GND<->GND  
 
-## PS2X controller    
+## PS2X controller, gamepad      
 * arduino uno  
 (baidupan) PS2X_Example_v1.rar  
 GND<->GND  
@@ -709,6 +709,15 @@ DAT<->D13
 CMD<->D11  
 CS<->D10  
 CLK<->D12  
+
+## FC 9 pins gamepad, DB9 interface (serial interface)      
+* esp32  
+(baidupan) fc_gamepad_esp32_v1.rar   
+* arduino uno    
+(baidupan) fc_gamepad_uno_v3.rar  
+* SNES_Keyboard    
+https://playground.arduino.cc/Main/InterfacingWithHardware/#joygame  
+https://github.com/j-mcc1993/SNES_Keyboard  
 
 ## Button Drivers  
 * for arduino  
