@@ -711,6 +711,8 @@ CS<->D10
 CLK<->D12  
 
 ## FC 9 pins gamepad, DB9 interface (serial interface)      
+* STM32学习笔记----FC游戏手柄  
+https://blog.csdn.net/Do_Not_Ask_Me/article/details/89460142  
 * esp32  
 (baidupan) fc_gamepad_esp32_v1.rar   
 * arduino uno    
