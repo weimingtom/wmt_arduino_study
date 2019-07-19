@@ -10,6 +10,9 @@ My Arduino Uno study
 ## Arduino Library List  
 * https://www.arduinolibraries.info  
 
+## 原理图  
+* http://image.dfrobot.com/image/data/DFR0181/Arduino_Uno_Rev3-schematic.pdf  
+
 ## BBS  
 * http://bbs.elecfans.com  
 * http://www.elecfans.com  
