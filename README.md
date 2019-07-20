@@ -10,8 +10,24 @@ My Arduino Uno study
 ## Arduino Library List  
 * https://www.arduinolibraries.info  
 
-## 原理图  
+## 原理图, from dfrobot taobao    
 * http://image.dfrobot.com/image/data/DFR0181/Arduino_Uno_Rev3-schematic.pdf  
+* 官网资料   
+http://www.arduino.org/products/boards/arduino-uno  
+* Atmega328控制器  
+http://www.dfrobot.com.cn/image/data/DFR0109/Atmega328P.pdf  
+* Eagle设计文档  
+http://www.dfrobot.com/image/data/DFR0181/arduino_Uno_Rev3-02-TH.zip  
+* 原理图  
+http://www.dfrobot.com/image/data/DFR0181/Arduino_Uno_Rev3-schematic.pdf  
+* Arduino IDE下载 (Arduino ORG)  
+http://www.arduino.org/downloads  
+* 技术支持论坛 （24小时内回复) (工作日）  
+http://mc.dfrobot.com.cn/  
+* Arduino驱动安装教程  
+http://wiki.dfrobot.com.cn/index.php/Arduino%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%AE%89%E8%A3%85  
+* Arduino入门教程  
+http://wiki.dfrobot.com.cn/index.php/Arduino%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B  
 
 ## BBS  
 * http://bbs.elecfans.com  
