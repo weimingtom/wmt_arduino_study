@@ -1031,3 +1031,7 @@ http://mindplus.cc
 ## 趣讨教  
 https://www.qutaojiao.com  
 
+## LattePanda 之深入学习 Firmata通讯  
+https://www.cnblogs.com/sjqlwy/p/lattepanda_firmata.html  
+
+
