@@ -413,7 +413,7 @@ RES<-->Left top 9
 DC<-->Left top 10  
 BLK<-->Left top 11  
 (baidupan) ips1_3_esp32_v1.rar  
-<5> for stm32f429ig  
+<5> for stm32f429ig and stm32h750    
 GND<-->GND  
 VCC<-->3V3  
 SCL<-->PB13    
@@ -422,6 +422,7 @@ RES<-->PB11
 DC<-->PB10  
 BLK<-->PB12 (not necessary)    
 (baidupan) 1.3ips_stm32f429ig_v1.rar  
+(baidupan) stm32h750_1.3ips_v1.rar  
 <6> for esp32, hard spi  
 GND<-->Right top 1  
 VCC<-->Left top 1  
