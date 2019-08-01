@@ -1043,3 +1043,6 @@ avrdudess
 ## st7789 in alios things  
 https://github.com/alibaba/AliOS-Things/blob/master/board/starterkit/aos/st7789.c  
 https://github.com/alibaba/AliOS-Things/blob/master/board/developerkit/aos/st7789.c  
+
+## DIY 6502/W65C02小单板机 - 刚点了个闪烁灯  
+https://www.mydigit.cn/forum.php?mod=viewthread&tid=23347  
