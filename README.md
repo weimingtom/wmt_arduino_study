@@ -1049,3 +1049,7 @@ https://www.mydigit.cn/forum.php?mod=viewthread&tid=23347
 
 ## 为什么当年 FC 的硬件那么容易就被山寨成小霸王？  
 http://ju.outofmemory.cn/entry/76616  
+
+## ardupilot  
+https://github.com/ArduPilot/ardupilot  
+
