@@ -1046,3 +1046,6 @@ https://github.com/alibaba/AliOS-Things/blob/master/board/developerkit/aos/st778
 
 ## DIY 6502/W65C02小单板机 - 刚点了个闪烁灯  
 https://www.mydigit.cn/forum.php?mod=viewthread&tid=23347  
+
+## 为什么当年 FC 的硬件那么容易就被山寨成小霸王？  
+http://ju.outofmemory.cn/entry/76616  
