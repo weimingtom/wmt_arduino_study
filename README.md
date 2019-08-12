@@ -1053,3 +1053,6 @@ http://ju.outofmemory.cn/entry/76616
 ## ardupilot  
 https://github.com/ArduPilot/ardupilot  
 
+## DIY PCB电路板制作（简单方便快捷）  
+https://www.cnblogs.com/yuyuanfeng/p/6344979.html  
+
