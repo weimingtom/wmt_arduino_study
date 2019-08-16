@@ -1059,3 +1059,6 @@ https://www.cnblogs.com/yuyuanfeng/p/6344979.html
 ## Arduboy2  
 https://github.com/harbaum/Arduboy2  
 
+## DIY Clones done in KiCAD  
+https://github.com/aspro648/Arduino  
+
