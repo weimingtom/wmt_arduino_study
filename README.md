@@ -1056,3 +1056,6 @@ https://github.com/ArduPilot/ardupilot
 ## DIY PCB电路板制作（简单方便快捷）  
 https://www.cnblogs.com/yuyuanfeng/p/6344979.html  
 
+## Arduboy2  
+https://github.com/harbaum/Arduboy2  
+
