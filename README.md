@@ -582,7 +582,7 @@ https://github.com/friendlyarm/linux-3.4.y/blob/nanopi2-lollipop-mr1/drivers/sta
 10(A)<--->(0R,or R)<-->3.3V  
 11(K)<--->GND  
 
-* 2.4inch spi, retrozero  
+* 2.4inch spi, retrozero, ili9341, 飞越液晶屏 and 中景园  
 <1> for rpi0  
 (baidupan) 2.4spi_hand_rpi0_v1.tar.gz  
 <2> for stm32f103rct6  
