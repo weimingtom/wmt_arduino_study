@@ -582,6 +582,19 @@ https://github.com/friendlyarm/linux-3.4.y/blob/nanopi2-lollipop-mr1/drivers/sta
 10(A)<--->(0R,or R)<-->3.3V  
 11(K)<--->GND  
 
+* 2.4inch spi, retrozero  
+<1> for rpi0  
+(baidupan) 2.4spi_hand_rpi0_v1.tar.gz  
+<2> for stm32f103rct6  
+(baidupan) spi2.4hand_stm32f103rct6_v1.rar  
+GND<->left 3  
+VCC<->right 1  
+SCK,PB13<->right 12  
+SDI/MOSI,PB15<->right 10   
+CS,PB11<->left 12  
+DC/RS,PB10<->left 11  
+RST,PB12<->right 7  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
