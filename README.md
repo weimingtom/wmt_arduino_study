@@ -620,6 +620,22 @@ http://vcc-gnd.com/rtd/html/STM32/quickref.html
 LCD4342包含了处理芯片和转接板（有两个屏线接口），并非纯裸屏   
 所以要注意LCD4342引出的40pin规范跟4.3寸裸屏的40pin是不同的  
 
+* 目前已知可以用WiringPi驱动的Rasperry Pi HAT有这些：  
+可以参考waveshare对应尺寸的arduino扩展板模块驱动代码做移植（例如waveshare的3.2寸跟全动2.4寸一样）    
+<1> 全动电子, 2.4寸, ili9341    
+http://www.lcdwiki.com/2.4inch_RPi_Display  
+http://www.waveshare.net/wiki/3.2inch_TFT_Touch_Shield  
+<2> 信泰微（实际上是全动电子的）， 3.5寸, ili9486   
+http://www.lcdwiki.com/3.5inch_RPi_Display  
+http://www.waveshare.net/wiki/3.5inch_TFT_Touch_Shield  
+<3> 友善之臂, 2.8寸, ST7789S  
+参考微雪的1.3寸ips屏代码和中景园的1.3寸ips屏代码（基于ST7789V和ST7789VW）， 需要改动    
+http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2%278_SPI_TFT/zh  
+http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2%278_SPI_Key_TFT  
+http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2%278_SPI_TFT  
+<4> 推测全动电子的2.4寸、2.8寸、3.2寸HAT应该都可以兼容2.4寸的驱动代码（都是ili9341）  
+http://www.lcdwiki.com/Main_Page  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
