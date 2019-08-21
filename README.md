@@ -595,6 +595,19 @@ CS,PB11<->left 12
 DC/RS,PB10<->left 11  
 RST,PB12<->right 7  
 
+* 2.4寸TFT液晶显示屏 7789驱动高清彩色屏 并口8位 可带触摸工控屏, JLT液晶专家, JLT24100B, 24PIN     
+兼容Sipeed MaixPy, Maix Dock, Maix Bit的ns2009    
+https://maixpy.sipeed.com/zh/libs/peripheral_modules/touchscreen.html  
+http://dl.sipeed.com/Accessories/LCD/2.4%20lcd.jpg  
+http://dl.sipeed.com/Accessories/LCD/  
+http://dl.sipeed.com/Accessories/LCD/HT043DA-V.0-单屏更新版本.pdf  
+40 pin  
+http://dl.sipeed.com/Accessories/LCD/AT050TN43%20V.1%20Pre%20Ver01%2020100511%20%28A050-43-TT-11%29_201102115899.pdf  
+
+* 
+兼容Sipeed 荔枝派zero，荔枝派nano （可能不支持）  
+http://dl.sipeed.com/Accessories/LCD/%5B1%5D4.3寸液晶屏规格%20书FGD430A4005_Spec.pdf  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
