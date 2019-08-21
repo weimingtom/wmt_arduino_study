@@ -596,13 +596,11 @@ DC/RS,PB10<->left 11
 RST,PB12<->right 7  
 
 * 2.4寸TFT液晶显示屏 7789驱动高清彩色屏 并口8位 可带触摸工控屏, JLT液晶专家, JLT24100B, 24PIN     
-兼容Sipeed MaixPy, Maix Dock, Maix Bit的ns2009    
+兼容Sipeed MaixPy, Maix Dock, Maix Bit的官方24针屏线接口        
 https://maixpy.sipeed.com/zh/libs/peripheral_modules/touchscreen.html  
 http://dl.sipeed.com/Accessories/LCD/2.4%20lcd.jpg  
 http://dl.sipeed.com/Accessories/LCD/  
-40 pin  
-http://dl.sipeed.com/Accessories/LCD/AT050TN43%20V.1%20Pre%20Ver01%2020100511%20%28A050-43-TT-11%29_201102115899.pdf  
-???  
+???官方用的可能是这个：    
 http://dl.sipeed.com/Accessories/LCD/HT043DA-V.0-单屏更新版本.pdf  
 
 * 4.3寸TFT液晶屏，RGB接口TFT屏(480x272,不带触摸), 东莞市慧勤智远科技  
@@ -610,6 +608,8 @@ http://dl.sipeed.com/Accessories/LCD/HT043DA-V.0-单屏更新版本.pdf
 http://dl.sipeed.com/Accessories/LCD/%5B1%5D4.3寸液晶屏规格%20书FGD430A4005_Spec.pdf  
 http://nano.lichee.pro  
 推测大部分4.3寸相同接口规范的屏都兼容荔枝派nano的屏线接口    
+40 pin  
+http://dl.sipeed.com/Accessories/LCD/AT050TN43%20V.1%20Pre%20Ver01%2020100511%20%28A050-43-TT-11%29_201102115899.pdf  
 
 * 480x272分辨率：RGB接口正点原子4.3寸RGB电容触摸液晶屏模块, 正点原子  
 正点原子的4.3寸屏线版屏（LCD4342）  
