@@ -760,7 +760,7 @@ XDCS<->P3.4
 
 ## 语音合成  
 * 【优信电子】XFS5152CE语音合成模块 中英文语音合成录放语音识别, 科大讯飞, XFS5152CE     
-用PC驱动, 接法  
+用PC驱动, 接法如下  
 **All switch to zero or off, default 115200 baud**  
 **Pins on left edge:**    
 left 1, P1, GND<->GND  
@@ -769,6 +769,9 @@ right 2, P4, AO_P<->speaker+
 right 3, P6, AO_N<->speeker-  
 right 4, P8, RXD<->Tx  
 right 5, P10, TXD<->Rx  
+如果声音不够大，可以外接5V供电的功放板PAM8403：  
+信泰微, 超微型数字功放板模块 2x3W D类 PAM8403 高效2.5～5V 可USB供电      
+接其中一个声道（例如都接L左声道）  
 
 ## LED / Digital tube Drivers  
 * 2位共阳极数码管  
