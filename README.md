@@ -600,13 +600,19 @@ RST,PB12<->right 7
 https://maixpy.sipeed.com/zh/libs/peripheral_modules/touchscreen.html  
 http://dl.sipeed.com/Accessories/LCD/2.4%20lcd.jpg  
 http://dl.sipeed.com/Accessories/LCD/  
-http://dl.sipeed.com/Accessories/LCD/HT043DA-V.0-单屏更新版本.pdf  
 40 pin  
 http://dl.sipeed.com/Accessories/LCD/AT050TN43%20V.1%20Pre%20Ver01%2020100511%20%28A050-43-TT-11%29_201102115899.pdf  
+???  
+http://dl.sipeed.com/Accessories/LCD/HT043DA-V.0-单屏更新版本.pdf  
 
-* 
+* 4.3寸TFT液晶屏，RGB接口TFT屏(480x272,不带触摸), 东莞市慧勤智远科技  
 兼容Sipeed 荔枝派zero，荔枝派nano （可能不支持）  
 http://dl.sipeed.com/Accessories/LCD/%5B1%5D4.3寸液晶屏规格%20书FGD430A4005_Spec.pdf  
+
+* 480x272分辨率：RGB接口正点原子4.3寸RGB电容触摸液晶屏模块, 正点原子  
+正点原子的4.3寸屏线版屏（LCD4342）  
+兼容源地工作室, STM32F429IGT6核心板+NandFlash+SDRAM+SPIFlash+EEPROM （A1型）  
+http://vcc-gnd.com/rtd/html/STM32/quickref.html  
 
 ## LCD  
 * Nokia5110  
