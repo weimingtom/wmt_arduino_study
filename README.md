@@ -758,6 +758,18 @@ DREQ<->P3.5
 XCS<->P3.3  
 XDCS<->P3.4  
 
+## 语音合成  
+* 【优信电子】XFS5152CE语音合成模块 中英文语音合成录放语音识别, 科大讯飞, XFS5152CE     
+用PC驱动, 接法  
+**All switch to zero or off, default 115200 baud**  
+**Pins on left edge:**    
+left 1, P1, GND<->GND  
+right 1, P2, VCC<->3.3V  
+right 2, P4, AO_P<->speaker+  
+right 3, P6, AO_N<->speeker-  
+right 4, P8, RXD<->Tx  
+right 5, P10, TXD<->Rx  
+
 ## LED / Digital tube Drivers  
 * 2位共阳极数码管  
 for arduino  
