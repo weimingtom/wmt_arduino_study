@@ -606,13 +606,18 @@ http://dl.sipeed.com/Accessories/LCD/AT050TN43%20V.1%20Pre%20Ver01%2020100511%20
 http://dl.sipeed.com/Accessories/LCD/HT043DA-V.0-单屏更新版本.pdf  
 
 * 4.3寸TFT液晶屏，RGB接口TFT屏(480x272,不带触摸), 东莞市慧勤智远科技  
-兼容Sipeed 荔枝派zero，荔枝派nano （可能不支持）  
+兼容Sipeed 荔枝派nano （荔枝派nano有对应480x272分辨率的官方系统镜像，但荔枝派zero没有）  
 http://dl.sipeed.com/Accessories/LCD/%5B1%5D4.3寸液晶屏规格%20书FGD430A4005_Spec.pdf  
+http://nano.lichee.pro  
+推测大部分4.3寸相同接口规范的屏都兼容荔枝派nano的屏线接口    
 
 * 480x272分辨率：RGB接口正点原子4.3寸RGB电容触摸液晶屏模块, 正点原子  
 正点原子的4.3寸屏线版屏（LCD4342）  
 兼容源地工作室, STM32F429IGT6核心板+NandFlash+SDRAM+SPIFlash+EEPROM （A1型）  
 http://vcc-gnd.com/rtd/html/STM32/quickref.html  
+由于4.3寸屏没有显示内存，只能通过再附加一个另外的驱动芯片才有可能让stm32驱动起它，  
+LCD4342包含了处理芯片和转接板（有两个屏线接口），并非纯裸屏   
+所以要注意LCD4342引出的40pin规范跟4.3寸裸屏的40pin是不同的  
 
 ## LCD  
 * Nokia5110  
