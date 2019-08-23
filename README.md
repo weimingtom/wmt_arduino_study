@@ -1131,3 +1131,6 @@ https://github.com/harbaum/Arduboy2
 ## DIY Clones done in KiCAD  
 https://github.com/aspro648/Arduino  
 
+## SMD贴片蜂鸣器HN1305B 3V 5V 12V 连续声 有源蜂鸣器  
+smd buzzer  
+江苏华能电子 蜂鸣器 厂家  
