@@ -454,6 +454,18 @@ BLK<-->NC(not connect)
 GPIO27@Left top 12<-->D4(LED_BUILTIN)      
 board: ESP32 Wrover Module  
 upload speed 115200  
+<9> for nrf52840 breakout, 讯联电子, arduino    
+(baidupan) ips13_nrf52840_v1.rar  
+GND<-->Left top 1, GND<-->j-link ob GND  
+VCC<-->Left top 1, VCC<-->j-link ob VCC 3.3V    
+SCL<-->Right top 9, 0.19  
+SDA<-->Right top 8, 0.20    
+RES<-->Right top 7, 0.21  
+DC<-->Right top 6, 0.22    
+BLK<-->Right top 5, 0.23    
+NC<-->Right top 1, SWCLK<-->j-link ob SWCLK  
+NC<-->Right top 2, SWDIO<-->j-link ob SWDIO  
+不要用USB供电，TFT的VCC脚要直接接电源（或者j-link ob的VCC），否则亮度很暗  
 
 * 信泰微, 1.44寸TFT, ST7735, 128x128, spi, hardware  
 <> for esp8266  
