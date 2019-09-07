@@ -607,6 +607,8 @@ SDI/MOSI,PB15<->right 10
 CS,PB11<->left 12  
 DC/RS,PB10<->left 11  
 RST,PB12<->right 7  
+<3> for esp32  
+(baidupan) LCD_Show_v2_esp32_2.4spi_hand.rar  
 
 * 2.4寸TFT液晶显示屏 7789驱动高清彩色屏 并口8位 可带触摸工控屏, JLT液晶专家, JLT24100B, 24PIN     
 兼容Sipeed MaixPy, Maix Dock, Maix Bit的官方24针屏线接口        
