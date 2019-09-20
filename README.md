@@ -1,4 +1,4 @@
-﻿# wmt_arduino_study
+# wmt_arduino_study
 My Arduino Uno study
 
 ## Arduino Playground  
@@ -288,7 +288,7 @@ RST	P27	          (left top 7)
 DC	P25	          (right top 11)   
 CS	P8/CE0        (right top 12)  
 BL	P24	          (right top 9)  
-
+https://github.com/weimingtom/wmt_rpi_study/blob/master/framebuffer/20190920/test.c  
 
 * 2.4 spi touch screen, 全动电子  
 <1> for STM32F103RC  
