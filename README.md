@@ -1,4 +1,4 @@
-# wmt_arduino_study
+﻿# wmt_arduino_study
 My Arduino Uno study
 
 ## Arduino Playground  
@@ -277,6 +277,18 @@ BL<-->(left 9)
 <> for spi (native software spi)  
 (baidupan) showbmp_native_2.4_v3.tar.gz  
 (82ms per frame, display color error)  
+<> for rpi (fbtft)  
+(baidupan) fbtft_v2_success.tar.gz  
+sudo modprobe fbtft_device name=adafruit18 gpios=reset:27,dc:25,cs:8,led:24 speed=40000000 bgr=1 fps=60 custom=1 height=128 width=128 rotate=180  
+GND               (right top 3)  
+VCC               (left top 1)  
+SCLK P11/SCLK     (Left Top 12)  
+MOSI P10/MOSI     (left top 10)  
+RST	P27	          (left top 7)  
+DC	P25	          (right top 11)   
+CS	P8/CE0        (right top 12)  
+BL	P24	          (right top 9)  
+
 
 * 2.4 spi touch screen, 全动电子  
 <1> for STM32F103RC  
@@ -1052,7 +1064,7 @@ https://github.com/wemos/D1_mini_Examples
 ## GPIO扩展元件  
 * 74HC595是串转并8位输出，纯数字电路  
 * 74HC4051是多路复用，数模混合电路  
-* MCP23017是I2C扩展GPIO，纯数字电路（常用于树莓派等） ​​​​  
+* MCP23017是I2C扩展GPIO，纯数字电路（常用于树莓派等） ????  
 
 ## Mixly, 米思齐  
 http://mixly.org  
