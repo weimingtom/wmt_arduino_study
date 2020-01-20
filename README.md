@@ -1160,3 +1160,8 @@ https://github.com/aspro648/Arduino
 ## SMD贴片蜂鸣器HN1305B 3V 5V 12V 连续声 有源蜂鸣器  
 smd buzzer  
 江苏华能电子 蜂鸣器 厂家  
+
+## Micro Kernel / Bootloader for Ben Eater's 6502 Computer  
+https://github.com/janroesner/sixty5o2  
+Build a 6502 computer  
+https://eater.net/6502  
