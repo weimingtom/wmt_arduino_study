@@ -662,6 +662,18 @@ http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2%278_SPI_TFT
 <4> 推测全动电子的2.4寸、2.8寸、3.2寸HAT应该都可以兼容2.4寸的驱动代码（都是ili9341）  
 http://www.lcdwiki.com/Main_Page  
 
+* 2.2 inch ili9341, esp32, ttgo-t4  
+TFT_MISO<-->12 (VSPI)    
+TFT_MOSI<-->23  
+TFT_CLK<-->18  
+TFT_CS<-->27  
+TFT_DC<-->32  
+TFT_RST<-->5  
+TFT_LED<-->4  
+(baidupan) search LilyGo_Txx_v1.rar  
+https://github.com/Xinyuan-LilyGO/LilyGo_Txx  
+https://github.com/LilyGO/TTGO-T4-DEMO  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
