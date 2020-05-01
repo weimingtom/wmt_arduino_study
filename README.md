@@ -674,6 +674,9 @@ TFT_LED<-->4
 https://github.com/Xinyuan-LilyGO/LilyGo_Txx  
 https://github.com/LilyGO/TTGO-T4-DEMO  
 
+* 2.4 inch ili9341, wio terminal  
+(baidupan) search tft_flash_bitmap_wio_v1.rar  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
