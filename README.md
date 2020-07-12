@@ -1193,7 +1193,7 @@ https://eater.net/6502
 search baidupan, INMP441_v1.rar    
 --------------------  
 LR,WS,SCK  
-	[===]  
+RRRRRxxxxxx[===]  
 GND,VDD,SD  
 --------------------  
 INMP441<->ESP32  
