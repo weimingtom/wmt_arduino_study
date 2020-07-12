@@ -1188,3 +1188,20 @@ https://eater.net/6502
 除了这种方法以外，我还想到两种办法，第一种办法是自制2节18650充电宝+st-link v2；  
 第二种办法需要自己用洞洞板焊接，用焊锡飞线，把电池扣焊接在并联的AMS1117-3.3V和AMS1117-5V模块  
 （先把9v降压到5v，再降压到3.3v），再用拨动开关控制电源开关  
+
+## ESP32, INMP441  
+LR,WS,SCK  
+	[===]  
+GND,VDD,SD  
+INMP441<->ESP32  
+---------------------  
+SCK(left top 1)<->GPIO14(left bottom 8)  
+SD(right top 1)<->GPIO32(left top 7)  
+WS(left top 2)<->GPIO15(right bottom 4)  
+VDD(right top 2)<->3.3(left top 1)  
+L/R(left top 3)<->GND(right top 1 or INMP441 GND)  
+GND(right top 3)<->GND(right top 1 or L/R)  
+xxxxxx    
+burn:  
+GPIO0(right down 5)<->GND(left down 5)  
+
