@@ -1190,9 +1190,12 @@ https://eater.net/6502
 （先把9v降压到5v，再降压到3.3v），再用拨动开关控制电源开关  
 
 ## ESP32, INMP441  
+search baidupan, INMP441_v1.rar    
+--------------------  
 LR,WS,SCK  
 	[===]  
 GND,VDD,SD  
+--------------------  
 INMP441<->ESP32  
 ---------------------  
 SCK(left top 1)<->GPIO14(left bottom 8)  
