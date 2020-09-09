@@ -515,8 +515,8 @@ CS<-->PB12
 (baidupan) ips2_0_esp32_v1_rotate_screen.rar  
 (baidupan) ips2_0_esp32_2_v1.rar  
 
-* 2.0 ips, 全动电子, ST7789  
-<1> for stm32h743vit6, 中景园  
+* 2.0 ips, 全动电子, ST7789, 320x240, spi    
+<1> for stm32h743vit6, 中景园, software spi      
 VCC<-->3.3V  
 GND<-->GND  
 SDA<-->PA7  
