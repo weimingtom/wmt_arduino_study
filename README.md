@@ -515,6 +515,20 @@ CS<-->PB12
 (baidupan) ips2_0_esp32_v1_rotate_screen.rar  
 (baidupan) ips2_0_esp32_2_v1.rar  
 
+* 2.0 ips, 全动电子, ST7789  
+<1> for stm32h743vit6, 中景园  
+VCC<-->3.3V  
+GND<-->GND  
+SDA<-->PA7  
+BLK<-->PB1  
+SCL<-->PA5  
+DC,RS<-->PC5  
+RES<-->PC4  
+CS<-->PB0  
+http://www.lcdwiki.com/zh/2.0inch_IPS_Module  
+(baidupan) Demo_STM32H743_SPI_v1_zhonjingyuan_2_0.rar  
+(baidupan) Demo_STM32H743VIT6_Software_SPI_v1_zhonjingyuan_2_0.rar  
+
 * 3.5inch rpi TFT, 信泰微, goodtft, 3.5寸彩屏触摸屏TFT, ili9486      
 <1> for rpi3  
 Ported from http://www.waveshare.net/wiki/3.5inch_TFT_Touch_Shield  
