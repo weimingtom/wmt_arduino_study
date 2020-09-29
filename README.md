@@ -857,6 +857,9 @@ CLK<->D12
 ## FC 9 pins gamepad, DB9 interface (serial interface)      
 * STM32学习笔记----FC游戏手柄  
 https://blog.csdn.net/Do_Not_Ask_Me/article/details/89460142  
+if the gamepad db9 interface holes face to me, five holes above four holes, from right to left,  
+top, right to left, number 1 to number 5: NC, data, latch, clock, NC.  
+bottom, right to left, number 6 to number 9: vcc, NC, gnd, NC.  
 * esp32  
 2,RXD<->Left top 7,GPIO32  
 3,TXD<->Left top 8,GPIO33  
