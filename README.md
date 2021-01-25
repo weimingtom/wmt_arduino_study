@@ -947,6 +947,8 @@ D10<->TX
 D11<->RX  
 Vin<->VCC  
 GND<->GND  
+蓝牙小车:  
+(baidupan) JDY-08模块（JDY-V3.3.rar  
 
 ## Keypad Drivers  
 * 4x4 keypad  
@@ -978,6 +980,8 @@ RST<->P1.3
 * (baidupan) bleserialport_v2.rar  
 * NRF24L01  
 * TODO  
+* 蓝牙小车:  
+* (baidupan) JDY-08模块（JDY-V3.3.rar  
 
 ## Bluetooth (HC-05) Drivers, HC05蓝牙模块    
 * (baidupan) amarino_v2.rar  
