@@ -1231,3 +1231,14 @@ xxxxxx
 burn:  
 GPIO0(right down 5)<->GND(left down 5)  
 
+## waveshare VGA PS2 Board + Blue Pill  
+a) Blue Pill (STM32F103C8T6, VCC-GND, 源地工作室)  
+PA9<->VGAHS  
+PB6<->VGAVS  
+PC13<->B  
+PC14<->G  
+PC15<->R  
+GND<->GND  
+https://www.waveshare.net/wiki/VGA_PS2_Board  
+https://github.com/RoCorbera/BlueVGA  
+search baidupan,   
