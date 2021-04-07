@@ -1241,4 +1241,4 @@ PC15<->R
 GND<->GND  
 https://www.waveshare.net/wiki/VGA_PS2_Board  
 https://github.com/RoCorbera/BlueVGA  
-search baidupan,   
+search baidupan, BlueVGA_hello_v3.rar   
