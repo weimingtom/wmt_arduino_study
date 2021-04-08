@@ -1231,7 +1231,7 @@ xxxxxx
 burn:  
 GPIO0(right down 5)<->GND(left down 5)  
 
-## waveshare VGA PS2 Board + Blue Pill  
+## VGA, waveshare VGA PS2 Board + Blue Pill  
 a) Blue Pill (STM32F103C8T6, VCC-GND, 源地工作室)  
 PA9<->VGAHS  
 PB6<->VGAVS  
@@ -1242,3 +1242,13 @@ GND<->GND
 https://www.waveshare.net/wiki/VGA_PS2_Board  
 https://github.com/RoCorbera/BlueVGA  
 search baidupan, BlueVGA_hello_v3.rar   
+
+## PS2 Keyboard, waveshare VGA PS2 Board + Uno  
+a) Uno  
+https://github.com/PaulStoffregen/PS2Keyboard  
+http://www.pjrc.com/teensy/td_libs_PS2Keyboard.html  
+VCC<->5V(or 3V3)  
+GND<->GND  
+PS2D<->4(DATA)  
+PS2CLK<->3(IRQ)  
+search baidupan, ps2keyboard_v2.rar  
