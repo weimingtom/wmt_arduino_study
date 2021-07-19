@@ -1213,22 +1213,19 @@ https://eater.net/6502
 （先把9v降压到5v，再降压到3.3v），再用拨动开关控制电源开关  
 
 ## ESP32, INMP441  
-search baidupan, INMP441_v1.rar    
---------------------  
+* search baidupan, INMP441_v1.rar    
+* inmp441: 
 LR,WS,SCK  
 RRRRRxxxxxx[===]  
 GND,VDD,SD  
---------------------  
-INMP441<->ESP32  
----------------------  
+* INMP441<->ESP32  
 SCK(left top 1)<->GPIO14(left bottom 8)  
 SD(right top 1)<->GPIO32(left top 7)  
 WS(left top 2)<->GPIO15(right bottom 4)  
 VDD(right top 2)<->3.3(left top 1)  
 L/R(left top 3)<->GND(right top 1 or INMP441 GND)  
 GND(right top 3)<->GND(right top 1 or L/R)  
-xxxxxx    
-burn:  
+* esp32 burn:  
 GPIO0(right down 5)<->GND(left down 5)  
 
 ## VGA, waveshare VGA PS2 Board + Blue Pill  
