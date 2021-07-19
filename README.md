@@ -1254,6 +1254,7 @@ PS2CLK<->3(IRQ)
 search baidupan, ps2keyboard_v2.rar  
 
 ## nucleo-f446re, stm32f446, inmp441  
+* nucleo-f446-ei-kws_v2_sai_success.rar  
 * 串口不用接，uart2口的RX，TX（对应板右侧的TX/D1,RX/D0）不要接在针脚上，默认被连接到st-link的虚拟串口上  
 usart2, TX, PA2(not need)==>TX/D1  
 usart2, RX, PA3(not need)==>RX/D0  
