@@ -1214,7 +1214,7 @@ https://eater.net/6502
 
 ## ESP32, INMP441  
 * search baidupan, INMP441_v1.rar    
-* inmp441: 
+* inmp441:   
 LR,WS,SCK  
 RRRRRxxxxxx[===]  
 GND,VDD,SD  
