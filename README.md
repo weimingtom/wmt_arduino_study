@@ -1250,7 +1250,7 @@ PS2D<->4(DATA)
 PS2CLK<->3(IRQ)  
 search baidupan, ps2keyboard_v2.rar  
 
-## nucleo-f446re, stm32f446, inmp441  
+## nucleo-f446re, stm32f446, inmp441, sai    
 * nucleo-f446-ei-kws_v2_sai_success.rar  
 * 串口不用接，uart2口的RX，TX（对应板右侧的TX/D1,RX/D0）不要接在针脚上，默认被连接到st-link的虚拟串口上  
 usart2, TX, PA2(not need)==>TX/D1  
@@ -1267,3 +1267,14 @@ WS(left top 2)<->SAI1_FS_B, PB9 (right 2 top 3)
 VDD(right top 2)<->3.3(left 3 top 4)   
 L/R(left top 3)<->GND  
 GND(right top 3)<->GND(left 3 top 7)  
+
+## stm32f446re, inmp441, i2s  
+usb-microphone_v5_solve_printf_block_main_thread.rar  
+INMP441<->STM32F446  
+SCK(left top 1)<->I2S1_CK, PB3 (D3, right 2 bottom 4)  
+SD(right top 1)<->I2S1_SD, PA7 (D11, right 1 top 7)  
+WS(left top 2)<->I2S1_WS, PA4 (left 2 bottom 4)  
+VDD(right top 2)<->3.3(left 3 top 4)  
+L/R(left top 3)<->GND  
+GND(right top 3)<->GND(left 3 top 7)  
+
