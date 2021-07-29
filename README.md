@@ -58,6 +58,11 @@ https://gitee.com/weimingtom/wifiboymod
 * https://github.com/PeterVranken/RTuinOS  
 * https://www.rt-thread.org  
 
+## USB-TTL  
+CTS，输入，清除发送  
+RTS，输出，请求发送  
+DTR，输出，数据终端就绪  
+
 ## Ser  
 * https://github.com/0xE8551CCB/serial-assistant  
 * https://github.com/charasyn/pc2snes  
