@@ -1283,7 +1283,7 @@ VDD(right top 2)<->3.3(left 3 top 4)
 L/R(left top 3)<->GND  
 GND(right top 3)<->GND(left 3 top 7)  
 
-## stm32h743, inmp441, sai  
+## stm32h743zit6, NUCLEO-H743ZI2, inmp441, sai  
 h743_inmp441_v2_stm32h743_sai_overclock.rar  
 h743_inmp441_v1_stm32h743_sai_no_overclock.rar  
 INMP441<->STM32H743  
