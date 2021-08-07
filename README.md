@@ -989,6 +989,11 @@ RST<->P1.3
 * 蓝牙小车, CC2541:  
 * (baidupan) JDY-08模块（JDY-V3.3.rar  
 * see below HC05蓝牙模块  
+* search baidupan,   
+CC41-A AT指令使用方法.pdf  
+(5 pins, not good) GH系列透传模块AT指令说明.docx  
+AT指令集.pdf  
+(**VERY IMPORTANT**) 新款Arduino入门套件.rar  
 
 ## Bluetooth (HC-05) Drivers, HC05蓝牙模块    
 * (baidupan) amarino_v2.rar  
@@ -1000,6 +1005,7 @@ see https://github.com/rubanraj54/amarino
 But you should modify MY_UUID_SECURE to SPP UUID : 00001101-0000-1000-8000-00805F9B34FB  
 https://blog.csdn.net/chy555chy/article/details/52193659  
 https://github.com/googlesamples/android-BluetoothChat/pull/30/files  
+* search baidupan, HC05指令集.pdf  
 
 ## LED  
 * STM32L151C8T6_pb9_led_toggle_v1.rar  
