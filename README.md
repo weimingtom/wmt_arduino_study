@@ -938,8 +938,9 @@ IN1<->D5
 IN2<->D4  
 
 * for arduino nano + 2.4G(BLE)  
-(baidupan) L298N_v2.rar  
+(baidupan, arduino nano code) L298N_v2.rar  
 (baidupan) bleserialport_v2.rar  
+(baidupan, **添加方向盘功能**，配合L298N_v2.rar) bleserialport_v3.rar  
 OUT1<->motor+  
 OUT2<->motor-  
 +12V<->battery 9V  
@@ -984,6 +985,7 @@ RST<->P1.3
 ## BLE (2.4G) Drivers  
 * CC2541  
 * (baidupan) bleserialport_v2.rar  
+* (baidupan, **添加方向盘功能**) bleserialport_v3.rar  
 * NRF24L01  
 * TODO  
 * 蓝牙小车, CC2541:  
