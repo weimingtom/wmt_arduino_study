@@ -1295,6 +1295,8 @@ L/R(left top 3)<->GND
 GND(right top 3)<->GND(left 3 top 7)  
 
 ## raspberry pi pico, rp2040, MAX9814 and PDM Mic (mems microphone)  
+* https://github.com/sandeepmistry/pico-microphone  
+* msys_v11_raspberry_pi_pico_v1.rar  
 * MAX9814, adc mic  
 GND(right 3)<->GND  
 3V3(right 5)<->Vdd  
