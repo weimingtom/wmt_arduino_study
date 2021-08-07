@@ -1293,3 +1293,22 @@ WS(left top 2)<->SAI1_FS_B, PF9 (left 4 bottom 2)
 VDD(right top 2)<->3.3(left 3 top 4)  
 L/R(left top 3)<->GND  
 GND(right top 3)<->GND(left 3 top 7)  
+
+## raspberry pi pico, rp2040, MAX9814 and PDM Mic (mems microphone)  
+* MAX9814, adc mic  
+GND(right 3)<->GND  
+3V3(right 5)<->Vdd  
+Vdd<->GAIN  
+GPIO 26(right 10)<->OUT  
+NC<->AR  
+* PDM Mic (GC-2 94V-0, MP34DT01 PDM MEMS Microphone, not good)  
+GPIO 2(left 4)<->DAT  
+GPIO 3(left 5)<->CLK  
+3V(self)<->SEL(self) (why???, not good)  
+GND(right 3)<->GND  
+SEL(self)<->3V(self) (why???, not good)  
+* M5Stack PDM Mic (good)  
+GPIO 3(left 5)<->CLK  
+GPIO 2(left 4)<->DAT  
+3V3(right 5)<->5V  
+GND(right 3)<->GND  
