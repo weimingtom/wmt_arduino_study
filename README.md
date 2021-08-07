@@ -996,6 +996,8 @@ CC41-A AT指令使用方法.pdf
 (5 pins, not good) GH系列透传模块AT指令说明.docx  
 AT指令集.pdf  
 (**VERY IMPORTANT**) 新款Arduino入门套件.rar  
+* similar code: https://github.com/Lembed/Android-BLE-Terminal  
+* similar code: https://github.com/pondahai/Android-BLE-Terminal-master  
 
 ## Bluetooth (HC-05) Drivers, HC05蓝牙模块    
 * (baidupan) amarino_v2.rar  
