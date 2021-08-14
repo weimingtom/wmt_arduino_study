@@ -1333,3 +1333,4 @@ search baidupan, CH9350L_sscom_01.txt
 57 AB 12 00 00 00 00 FF 80 00 20来关闭（也可以不关闭）。如果键盘按键按下（不包括键盘按键弹起），  
 例如a，会发送一段16进制数据57 AB 88 0B 10 00 00 04 00 00 00 00 00 16 1A （一共15个字节），  
 其中第8个字节04是a的键盘码  
+https://github.com/jitenshap/CH9350Parser-Python/blob/main/ch9350_parser.py  
