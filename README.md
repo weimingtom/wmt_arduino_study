@@ -1324,3 +1324,12 @@ GPIO 3(left 5)<->CLK
 GPIO 2(left 4)<->DAT  
 3V3(right 5)<->5V  
 GND(right 3)<->GND  
+
+## CH9350 / CH9350L usb keyboard host, hid (usb) to uart (serial), hid2uart (usb2uart)    
+search baidupan, CH9350L_sscom_01.txt  
+通过usb host读取USB HID键盘键值，然后转4线串口的方法，网上有一种做法是通过CH9350L或者CH9350来实现。  
+这个芯片的串口协议需要查资料，我查过和用sscom测试过（我用的是润和Neptune开发板+键盘HID套装）  
+大概是这样子：CH9350L会不断发送57 AB 82 A3（波特率115200），夹杂键值16进制数据，可以通过接收  
+57 AB 12 00 00 00 00 FF 80 00 20来关闭（也可以不关闭）。如果键盘按键按下（不包括键盘按键弹起），  
+例如a，会发送一段16进制数据57 AB 88 0B 10 00 00 04 00 00 00 00 00 16 1A （一共15个字节），  
+其中第8个字节04是a的键盘码  
