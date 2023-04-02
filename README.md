@@ -10,6 +10,9 @@ My Arduino Uno study
 ## Arduino Library List  
 * https://www.arduinolibraries.info  
 
+## micropython see here: 
+* https://github.com/weimingtom/wmt_micropython_study  
+
 ## 原理图, from dfrobot taobao    
 * http://image.dfrobot.com/image/data/DFR0181/Arduino_Uno_Rev3-schematic.pdf  
 * 官网资料   
