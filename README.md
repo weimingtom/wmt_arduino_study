@@ -486,6 +486,16 @@ BLK<-->Right top 5, 0.23
 NC<-->Right top 1, SWCLK<-->j-link ob SWCLK  
 NC<-->Right top 2, SWDIO<-->j-link ob SWDIO  
 不要用USB供电，TFT的VCC脚要直接接电源（或者j-link ob的VCC），否则亮度很暗  
+<11> for esp32, like t-watch-2020-v3  
+search SmallDesktopDisplay_v3_success.rar    
+chip is top, and usb is bottom, face to me  
+GND<-->Right top 1  
+VCC<-->Left top 1  
+SCL<-->right top 9（P18）  
+SDA<-->right top 8（P19）  
+RES<-->right top 10（P5)  
+DC<-->Left top 11（P27）  
+BLK<-->NC  
 
 * 信泰微, 1.44寸TFT, ST7735, 128x128, spi, hardware  
 <> for esp8266  
