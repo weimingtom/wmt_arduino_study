@@ -709,6 +709,19 @@ https://github.com/LilyGO/TTGO-T4-DEMO
 * 2.4 inch ili9341, wio terminal  
 (baidupan) search tft_flash_bitmap_wio_v1.rar  
 
+* 微雪2inch 320x240 st7789  
+<1> use circuitpython  
+dino_v2_2inch_wio_rp2040_success_important.rar  
+st7789 2inch 240x320 tft<->wio-rp2040, usb type c and run button on top left, chip face to me  
+VCC<->right top 2  
+GND<->right top 3  
+DIN<->IO3 //left top 5, spi0_tx  
+CLK<->IO2 //left top 4, spi0_sck  
+CS<->IO5//left top 7  
+DC<->IO1  //left top 2 //see st7789_dc=1  
+RST<->IO0 //left top 1 //see st7789_res=0  
+BL<->NC  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
