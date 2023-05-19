@@ -724,7 +724,7 @@ RST<->IO0 //left top 1 //see st7789_res=0
 BL<->NC  
 
 * 中景园 (zhongjingyuan) 1.28inch 圆形屏(round screen) GC9A01  
-<1> use ESP32 Arduino     
+<1> use ESP32 Arduino, software spi       
 display_clock_128_v2_success.rar  
 (like ips 240x240 connection)  
 GND<-->Right top 1  
