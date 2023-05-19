@@ -723,6 +723,19 @@ DC<->IO1  //left top 2 //see st7789_dc=1
 RST<->IO0 //left top 1 //see st7789_res=0  
 BL<->NC  
 
+* 中景园 (zhongjingyuan) 1.28inch 圆形屏(round screen) GC9A01  
+<1> use ESP32 Arduino     
+display_clock_128_v2_success.rar  
+(like ips 240x240 connection)  
+GND<-->Right top 1  
+VCC<-->Left top 1  
+SCL<-->right top 9（P18）  
+SDA<-->right top 8（P19）   
+RES<-->right top 10（P5)    
+DC<-->Left top 11（P27）  
+CS<-->GND  
+BLK<-->NC  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
