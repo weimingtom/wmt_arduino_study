@@ -735,7 +735,7 @@ RES<-->right top 10（P5)
 DC<-->Left top 11（P27）  
 CS<-->GND  
 BLK<-->NC  
-<2> use stm32f411ceu6, keil 5 (MDK5)  
+<2> use stm32f411ceu6, keil 5 (MDK5), hardware spi    
 OneWatch_Soft_v1_success_缺面包板接线图.rar  
 STM32f411CEU6核心板（左双boot跳帽右reset按钮）  
 typec供电，接四线st-link烧录  
