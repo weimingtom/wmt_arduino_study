@@ -735,6 +735,19 @@ RES<-->right top 10（P5)
 DC<-->Left top 11（P27）  
 CS<-->GND  
 BLK<-->NC  
+<2> use stm32f411ceu6, keil 5 (MDK5)  
+OneWatch_Soft_v1_success_缺面包板接线图.rar  
+STM32f411CEU6核心板（左双boot跳帽右reset按钮）  
+typec供电，接四线st-link烧录  
+typec向上核心板<--->1.28寸圆形屏  
+G（右上2）<--->GND  
+3.3（右上3）<--->VCC  
+PA7（右上8）<--->SDA(SPI1)  
+PA6（右上9）<--->RES  
+PA5（右上10）<--->SCL(SPI1)  
+PA4（右上11）<--->DC  
+PA3（右上12）<--->CS  
+PA2（右上13）<--->BLK  
 
 ## LCD  
 * Nokia5110  
