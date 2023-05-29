@@ -200,6 +200,15 @@ see above
 http://www.waveshare.net/wiki/1.3inch_OLED_(A)  
 (baidupan) search oled.ino  
 
+* OLED 12864, 中景园STM32F103RCT6  
+openwatch_v5_run_success.rar  
+port from https://github.com/SMotlaq/open-watch, original STM32F030C8T6    
+STM32F103RCT6<->OLED12864  
+3.3V(left 2 bottom 1)<->VCC  
+GND(left 2 bottom 2)<->GND  
+PB6(left 2 bottom 5)<->SCL  
+PB7(left 1 bottom 4)<->SDA  
+
 ## Serial Drivers (see my baidupan)  
 * ft232  
 for stm32vldiscovery  
