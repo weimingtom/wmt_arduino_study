@@ -773,6 +773,22 @@ PA10（右1列16行）<--->下按键（向下翻）
 PA11（右3列7行）<--->右按键（确定）  
 PA12（右3列6行）<--->左按键（取消）  
 
+<4> nRF52833 DK  
+gc9a01a_zephyr_driver_app_v5_run_success.rar  
+//GND: GND  
+//VCC: VDD  
+//SCL: P0.31  
+//SDA: P0.30  
+//RES: P0.03  
+//DC:  P1.00  
+//CS: P0.16 -> P1.03  
+//BLK: P0.26  
+SPI1  
+//MISO P1.08  
+//MOSI P0.30  
+//SCK P0.31  
+//CS0 P0.16  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
