@@ -772,8 +772,7 @@ PA9（右1列10行）<--->上按键（向上翻）
 PA10（右1列16行）<--->下按键（向下翻）  
 PA11（右3列7行）<--->右按键（确定）  
 PA12（右3列6行）<--->左按键（取消）  
-
-<4> nRF52833 DK  
+<4> nRF52833 DK, using ncs zephyr os     
 gc9a01a_zephyr_driver_app_v5_run_success.rar  
 //GND: GND  
 //VCC: VDD  
