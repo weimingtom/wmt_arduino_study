@@ -788,6 +788,20 @@ SPI1
 //SCK P0.31  
 //CS0 P0.16  
 
+* 中景园 (zhongjingyuan) 1.69inch 长方形屏(圆角), ST7789V2     
+<1> use ESP32 Arduino, software spi       
+display_clock_128_v2_success.rar  
+(兼容display_clock_169_v1_success.rar, 只不过红蓝对调)  
+(like ips 240x240 connection)  
+GND<-->Right top 1  
+VCC<-->Left top 1  
+SCL<-->right top 9（P18）  
+SDA<-->right top 8（P19）   
+RES<-->right top 10（P5)    
+DC<-->Left top 11（P27）  
+CS<-->GND  
+BLK<-->NC  
+
 ## LCD  
 * Nokia5110  
 for stc89c52  
