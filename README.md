@@ -790,8 +790,8 @@ SPI1
 
 * 中景园 (zhongjingyuan) 1.69inch 长方形屏(圆角), ST7789V2     
 <1> use ESP32 Arduino, software spi       
-display_clock_128_v2_success.rar  
-(兼容display_clock_169_v1_success.rar, 只不过红蓝对调)  
+display_clock_169_v1_success.rar  
+(兼容display_clock_128_v2_success.rar, 只不过红蓝对调)  
 (like ips 240x240 connection)  
 GND<-->Right top 1  
 VCC<-->Left top 1  
