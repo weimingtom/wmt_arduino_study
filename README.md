@@ -801,6 +801,9 @@ RES<-->right top 10（P5)
 DC<-->Left top 11（P27）  
 CS<-->GND  
 BLK<-->NC  
+<2> FR8008, st7789v 240x280  
+fr8000-master_v1_run_lvgl_success.rar  
+fr8000_lvgl_watch_240x280-master_v1_run_success.rar  
 
 ## LCD  
 * Nokia5110  
