@@ -811,7 +811,14 @@ SDA<-->PB2 (left top 2)
 RES<-->PB4 (left top 3)   
 DC<-->PB3 (right top 2)   
 CS<-->PB1 (left top 1)    
-BLK<-->NC  
+BLK<-->NC
+
+* FR8008XP DEV 1.1 400屏幕扩展板, st77903  
+400屏幕.rar, fr800x_lvgl_prj_20220903_dev_ver.rar  
+400x400: fr800x_lvgl_prj_20220903_dev_ver_v1_st77903_not_good.rar  
+400x400, all.bin: fr800x_lvgl_prj_20220903_dev_ver_v2_no_random_screen.7z
+
+  
 
 ## LCD  
 * Nokia5110  
