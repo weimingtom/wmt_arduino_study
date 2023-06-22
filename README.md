@@ -813,7 +813,7 @@ DC<-->PB3 (right top 2)
 CS<-->PB1 (left top 1)    
 BLK<-->NC
 
-* FR8008XP DEV 1.1 400屏幕扩展板, st77903  
+* FR8008XP DEV 1.1 400 x 400 圆形屏幕扩展板, st77903, 1.6寸 400*400 开发板显示屏（只适用FR8008xP）    
 400屏幕.rar, fr800x_lvgl_prj_20220903_dev_ver.rar  
 400x400: fr800x_lvgl_prj_20220903_dev_ver_v1_st77903_not_good.rar  
 400x400, all.bin: fr800x_lvgl_prj_20220903_dev_ver_v2_no_random_screen.7z
