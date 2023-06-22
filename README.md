@@ -817,8 +817,17 @@ BLK<-->NC
 400屏幕.rar, fr800x_lvgl_prj_20220903_dev_ver.rar  
 400x400: fr800x_lvgl_prj_20220903_dev_ver_v1_st77903_not_good.rar  
 400x400, all.bin: fr800x_lvgl_prj_20220903_dev_ver_v2_no_random_screen.7z
-
-  
+```
+!!! not sure  
+GND<-->GND (right bottom 3)   
+VCC<-->VBAT (left bottom 3)   
+SCL<-->PB0 (right top 1)   
+SDA<-->PB2 (left top 2)   
+RES<-->PD5 (left top 5)   
+DC<-->PB3 (right top 2)   
+CS<-->PA5 (right bottom 4)    
+BLK<-->NC  
+```
 
 ## LCD  
 * Nokia5110  
