@@ -1467,3 +1467,7 @@ search baidupan, CH9350L_sscom_01.txt
 例如a，会发送一段16进制数据57 AB 88 0B 10 00 00 04 00 00 00 00 00 16 1A （一共15个字节），  
 其中第8个字节04是a的键盘码  
 https://github.com/jitenshap/CH9350Parser-Python/blob/main/ch9350_parser.py  
+
+## （TODO）未归类  
+* 记录，带cs脚的st7789 240x240屏幕, rpi pico驱动    
+rpipico_mpy_st7789_with_cs_v1.7z  
