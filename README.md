@@ -1471,3 +1471,8 @@ https://github.com/jitenshap/CH9350Parser-Python/blob/main/ch9350_parser.py
 ## （TODO）未归类  
 * 记录，带cs脚的st7789 240x240屏幕, rpi pico驱动    
 rpipico_mpy_st7789_with_cs_v1.7z  
+
+* smart-watch_top_v4_ili9341.7z  
+讯联开发板的ILI9341接法（需要魔改驱动代码）  
+未上传  
+未记录到github的wmt_arduino  
